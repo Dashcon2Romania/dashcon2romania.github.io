@@ -20,7 +20,7 @@ author: Arlekinni SRL
 ###############################################
 
 navbar-links:
-  FAQ: "aboutme"
+  FAQ: "faq"
   Links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
