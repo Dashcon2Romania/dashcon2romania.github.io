@@ -14,55 +14,55 @@ subtitle: Some extra info
  <tr>
     <td>
      <h4>
-      Section 1
+      General Questions
      </h4>
-     <strong>Question</strong>
+     <strong>Are you in any way affiliated with the original DashCon team?</strong>
         <br>
-     Answer.
+     No. We've only gotten the go ahead from the DashCon 2 team to use the name DashCon 2: Romania and their blessings for our endeavour.
      <br>
-    <strong>Question</strong>
+    <strong>What experience do you have in this area?</strong>
             <br>
-     Answer.
+     Our team members have both experience in organizing shows and events as well as a lot of guts and ambition.
      <br>
-    <strong>Question</strong>
+    <strong>When will we be able to buy tickets?</strong>
            <br>
-     Answer.
+     We're planning on opening ticket sales in May. Stay tuned for more details soon!
      <br>
-    <strong>Question</strong>
+    <strong>Will you ensure security for the event?</strong>
            <br>
-     Answer.
+     Yes. We care a lot about the safety and comfort of our attendees.
      <br>
      <h4>
-      Section 2
+      Ball pit.
      </h4>
-    <strong>Can I piss in the ballpit?</strong>
+    <strong>Can I piss in the ball pit?</strong>
     <br>
     <em>No.</em>
     </td>
   <td>
        <h4>
-      Sectiunea 1
+      Întrebări generale
      </h4>
-     <strong>Question</strong>
+     <strong>Aveți vreo afiliere oficială cu echipa originală DashCon?</strong>
         <br>
-     Answer.
+     Nu. Avem doar voie din partea echipei DashCon 2 să le folosim numele trademarked de DashCon 2 (România) pentru evenimentul nostru.
      <br>
-    <strong>Question</strong>
+    <strong>Ce experiență aveți în domeniu?</strong>
             <br>
-     Answer.
+     Membrii echipei noastre au atât experiență în organizarea de spectacole și evenimente cât și mult tupeu și ambiție.
      <br>
-    <strong>Question</strong>
+    <strong>Când se vor pune în vânzare biletele?</strong>
            <br>
-     Answer.
+     Plănuim să le punem în vânzare în jur de mai. Vom reveni cu mai multe detalii în curând!
      <br>
-    <strong>Question</strong>
+    <strong>O să aveți pază la eveniment?</strong>
            <br>
-     Answer.
+     Da. Punem foarte mult accentul pe siguranța și confortul participanților.
      <br>
      <h4>
-      Sectiunea 2
+      Piscina cu bile.
      </h4>
-    <strong>Pot sa fac pipi pe mingi?</strong>
+    <strong>Am voie să fac pipi în bile?</strong>
     <br>
     <em>Nu.</em>
   </td>
