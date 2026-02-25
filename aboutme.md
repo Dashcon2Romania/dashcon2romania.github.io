@@ -13,7 +13,8 @@ subtitle: Some extra info
         <td><b>Intrebari</b></td>
      </tr>
      <tr>
-       <td>### Lorem Ipsum
+       <td>
+### Lorem Ipsum
 <details markdown="1">
 <summary>**Question 1?**</summary>
 Answer to Question 1.
@@ -38,7 +39,8 @@ Answer to Question 4.
 <details markdown="1">
 <summary>**Can I pee in the ballpit?**</summary>
 _No._</td>
-        <td>### Lorem Ipsum
+        <td>
+### Lorem Ipsum
 <details markdown="1">
 <summary>**întrebarea 1?**</summary>
 Răspuns 1.
