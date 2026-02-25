@@ -39,6 +39,7 @@ subtitle: Some extra info
     <br>
     <em>No.</em>
     </td>
+  <td>
        <h4>
       Sectiunea 1
      </h4>
@@ -64,6 +65,6 @@ subtitle: Some extra info
     <strong>Pot sa fac pipi pe mingi?</strong>
     <br>
     <em>Nu.</em>
-       
+  </td>
  </tr>
 </table>
