@@ -64,7 +64,6 @@ subtitle: Some extra info
     <strong>Pot sa fac pipi pe mingi?</strong>
     <br>
     <em>Nu.</em>
- </td>
        
  </tr>
 </table>
