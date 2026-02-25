@@ -8,6 +8,39 @@ share-img: /assets/img/path.jpg
 tags: [info. pinned]
 ---
 
+<details markdown="1">
+<summary>Versiunea în Română</summary>
+Ce este DashCon 2: România?
+
+DashCon 2: România este o convenție dedicată tuturor lucrurilor fandom și tuturor fanilor minunați care alcătuiesc aceste fandom-uri!
+
+DashCon a fost numele unei convenții Tumblr din 2014 de mare notorietate. Un moment cu adevărat memorabil în istoria culturii online marcată de faimoasa lor piscină cu bile.
+
+Apoi, DashCon 2 este o recreere minunată și fermecată a vechiului eveniment de câtre o echipă nouă de organizatori, farâ vreo afiliere cu echipa originală, care și-au propus și au reușit să aducă la iveală întregul potențial ce îl poate avea un DashCon.
+
+Noi am fost atât de inspirați de reușitele lor, și am dorit o scuză să ne cumpărăm o piscină mare cu bile, încât le-am trimit un email întrebându-i dacă ne-ar da voie să facem o mică versiune a evenimentului aici în România!
+
+.. Și ei chiar ne-au răspuns! Și chiar mai mult de atât, ne-au dat binecuvântarea lor să ne facem de cap!
+
+
+Suntem incredibil de încântați să vă prezentăm: DashCon 2: România!
+
+
+Acum, am zis intenționat o versiune mică. Nu suntem nici pe aproape de mărimea convenției DashCon 2. Suntem o echipă mică care suportă toate costurile și, fiind prima noastră încercare la un eveniment de acest nivel, țintim spre o scară mică, învățând din greșelile predecesorilor noștri.
+
+
+Evenimentul va avea loc pe data de 21 Noiembrie 2026 la Hotelul Pullman București (World Trade Center).
+
+Acesta se va ține pentru o zi, de la ora X până la ora Y și avem următoarele activități planificate:
+
+LISTA ACTIVITATI
+
+
+... și da! O să avem o piscină cu bile.
+
+</details>
+
+
 ### What IS _DashCon 2: Romania_?
 
 _DashCon 2: Romania_ is a convention dedicated to all things fandom and to the beautiful fans that make up said fandoms!
