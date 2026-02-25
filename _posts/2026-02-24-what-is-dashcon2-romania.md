@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [info. pinned]
 ---
 
-#### _Let me tell you about DashCon..._
+ ####  _Let me tell you about DashCon..._
 
 <details markdown="1">
 <summary>Versiunea în Română</summary>
