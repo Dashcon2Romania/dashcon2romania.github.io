@@ -13,22 +13,58 @@ subtitle: Some extra info
  </tr>
  <tr>
     <td>
-    Q1
+     <h4>
+      Section 1
+     </h4>
+     <strong>Question</strong>
         <br>
-    Q2
-        <br>
-    Q3
-        <br>
-    Q4
-        <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+            <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+           <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+           <br>
+     Answer.
+     <br>
+     <h4>
+      Section 2
+     </h4>
+    <strong>Can I piss in the ballpit?</strong>
+    <br>
+    <em>No.</em>
     </td>
-    <td>
-        <ul>
-            I1
-            I2
-            I3
-            I4
-        </ul>
-        </td>
+       <h4>
+      Sectiunea 1
+     </h4>
+     <strong>Question</strong>
+        <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+            <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+           <br>
+     Answer.
+     <br>
+    <strong>Question</strong>
+           <br>
+     Answer.
+     <br>
+     <h4>
+      Sectiunea 2
+     </h4>
+    <strong>Pot sa fac pipi pe mingi?</strong>
+    <br>
+    <em>Nu.</em>
+ </td>
+       
  </tr>
 </table>
