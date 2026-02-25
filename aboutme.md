@@ -71,11 +71,18 @@ _Nu._  </td>
 
     <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:30px">Questions</b></td>
+    <td><b style="font-size:30px">Întrebări</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>Q1
+    Q2
+    Q3
+    Q4
+    </td>
+    <td>I1
+    I2
+    I3
+    I4</td>
  </tr>
 </table>
