@@ -16,7 +16,7 @@ subtitle: Some extra info
        <td>
 ### Lorem Ipsum
 <details markdown="1">
-<summary>**Question 1?**</summary>
+<summary>** Question 1? **</summary>
 Answer to Question 1.
 </details>
 
@@ -42,7 +42,7 @@ _No._</td>
         <td>
 ### Lorem Ipsum
 <details markdown="1">
-<summary>**întrebarea 1?**</summary>
+<summary>** întrebarea 1? **</summary>
 Răspuns 1.
 </details>
 
