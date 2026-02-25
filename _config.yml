@@ -21,10 +21,10 @@ author: Arlekinni SRL
 
 navbar-links:
   FAQ: "faq"
+  LoremIpsum: "https://en.wikipedia.org/wiki/Lorem_ipsum"
   Links:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  LoremIpsum: "https://deanattali.com"
+    - Example: "https://catoftheday.com/"
+    - Example2: "https://en.wikipedia.org/wiki/Ball_pit"
 
 ################
 # --- Logo --- #
