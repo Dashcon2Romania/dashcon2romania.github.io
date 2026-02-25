@@ -13,10 +13,8 @@ subtitle: Some extra info
      <tr>
          <td>
 ### Lorem Ipsum
-<details markdown="1">
-<summary> **Question 1?** </summary>
+- **Question 1?**
 Answer to Question 1.
-</details>
 
 <details markdown="1">
 <summary> **Question 2?** </summary>
@@ -40,10 +38,8 @@ _No._
 </td>
 
 <td> ### Lorem Ipsum
-<details markdown="1">
-<summary>** întrebarea 1? **</summary>
+- ** întrebarea 1? **
 Răspuns 1.
-</details>
 
 <details markdown="1">
 <summary>**întrebarea 2?**</summary>
