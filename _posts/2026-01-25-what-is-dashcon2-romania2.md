@@ -1,51 +1,55 @@
 ---
 layout: post
-title: About us
-subtitle: Despre noi
+title: What IS Dashcon 2 Romania?
+subtitle: CE este Dashcon 2 România?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [info. pinned]
 ---
 
+
+
 <details markdown="1">
 <summary>Versiunea în Română</summary>
-Ce este DashCon 2: România?
 
-DashCon 2: România este o convenție dedicată tuturor lucrurilor fandom și tuturor fanilor minunați care alcătuiesc aceste fandom-uri!
+  ### CE este _DashCon 2: România_?
 
-DashCon a fost numele unei convenții Tumblr din 2014 de mare notorietate. Un moment cu adevărat memorabil în istoria culturii online marcată de faimoasa lor piscină cu bile.
+_DashCon 2: România_ este o convenție dedicată tuturor lucrurilor **fandom** și tuturor **fanilor** minunați care alcătuiesc aceste fandom-uri!
 
-Apoi, DashCon 2 este o recreere minunată și fermecată a vechiului eveniment de câtre o echipă nouă de organizatori, farâ vreo afiliere cu echipa originală, care și-au propus și au reușit să aducă la iveală întregul potențial ce îl poate avea un DashCon.
+_DashCon_ a fost numele unei convenții Tumblr din 2014 [**de mare notorietate**](https://www.youtube.com/watch?v=ZAqy-KDJAUM). Un moment cu adevărat memorabil în istoria culturii online marcată de faimoasa lor piscină cu bile.
 
-Noi am fost atât de inspirați de reușitele lor, și am dorit o scuză să ne cumpărăm o piscină mare cu bile, încât le-am trimit un email întrebându-i dacă ne-ar da voie să facem o mică versiune a evenimentului aici în România!
+Apoi, _DashCon **2**_ este o recreere minunată și fermecată a vechiului eveniment de câtre o echipă nouă de organizatori, farâ vreo afiliere cu echipa originală, care și-au propus și au reușit să aducă la iveală întregul potențial pentru _DashCon_.
 
-.. Și ei chiar ne-au răspuns! Și chiar mai mult de atât, ne-au dat binecuvântarea lor să ne facem de cap!
+Noi am fost atât de inspirați de reușitele lor, _și am dorit o scuză să ne cumpărăm o piscină mare cu bile_, încât le-am trimit un email întrebându-i dacă ne-ar da voie să facem o mică versiune a evenimentului aici în România!
 
-
-Suntem incredibil de încântați să vă prezentăm: DashCon 2: România!
+.. **Și chiar ne-au răspuns!** Mai mult de atât, ne-au dat binecuvântarea lor să ne facem de cap!
 
 
-Acum, am zis intenționat o versiune mică. Nu suntem nici pe aproape de mărimea convenției DashCon 2. Suntem o echipă mică care suportă toate costurile și, fiind prima noastră încercare la un eveniment de acest nivel, țintim spre o scară mică, învățând din greșelile predecesorilor noștri.
+#### Suntem incredibil de încântați să vă prezentăm: **_DashCon 2: România_**!
 
 
-Evenimentul va avea loc pe data de 21 Noiembrie 2026 la Hotelul Pullman București (World Trade Center).
+_Acum_, am zis intenționat _o versiune mică_. Nu suntem nici pe aproape de mărimea convenției DashCon 2. Suntem o echipă mică care suportă toate costurile și, fiind prima noastră încercare la un eveniment de acest nivel, țintim spre o scară mică, învățând din [greșelile predecesorilor noștri](https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg).
 
-Acesta se va ține pentru o zi, de la ora X până la ora Y și avem următoarele activități planificate:
+
+Evenimentul va avea loc pe data de **21 Noiembrie 2026** la **Hotelul Pullman, București**.
+
+Acesta se va dura _o zi_, de la ora X până la ora Y și avem următoarele activități planificate:
 
 LISTA ACTIVITATI
 
 
-... și da! O să avem o piscină cu bile.
+... și _da_! O să avem o piscină cu bile.
 
 </details>
 
 
 ### What IS _DashCon 2: Romania_?
 
-_DashCon 2: Romania_ is a convention dedicated to all things fandom and to the beautiful fans that make up said fandoms!
+_DashCon 2: Romania_ is a convention dedicated to all things **fandom** and to the beautiful **fans** that make up said fandoms!
 
-_DashCon_ was the name of the **infamous** 2014 tumblr convention. A memorable time in fandom history marked by the famed ball pit they had at the event.
+_DashCon_ was the name of the [**infamous**](https://www.youtube.com/watch?v=ZAqy-KDJAUM) 2014 tumblr convention. A memorable time in fandom history marked by the famed ball pit they had at the event.
+
 Now, _DashCon **2**_ is a wonderful and magical re-invention of the old event organized by a whole new team of people, unaffiliated with the original team, who took it upon themselves to bring to fruition the full potential of what _DashCon_ can be.
 
 We've been so inspired by their achievements, _and wanted so badly to have an excuse to buy a big ball pit_, that we've asked them if we can try our hand at a small little off-shoot version of the event here in Romania! 
