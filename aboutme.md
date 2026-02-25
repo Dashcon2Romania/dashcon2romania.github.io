@@ -12,9 +12,11 @@ subtitle: Some extra info
      </tr>
      <tr>
          <td>
-### Lorem Ipsum
-- **Question 1?**
+Section 1
+<details markdown="1">
+<summary>**Question 1?**</summary>
 Answer to Question 1.
+</details>
 
 <details markdown="1">
 <summary> **Question 2?** </summary>
@@ -31,15 +33,17 @@ Answer to Question 3.
 Answer to Question 4.
 </details>
 
-### Ballpit
+Ballpit
 <details markdown="1">
 <summary>**Can I pee in the ballpit?**</summary>
 _No._
 </td>
 
-<td> ### Lorem Ipsum
-- ** întrebarea 1? **
+<td> Sectiunea 1
+<details markdown="1">
+<summary>întrebarea 1?</summary>
 Răspuns 1.
+</details>
 
 <details markdown="1">
 <summary>**întrebarea 2?**</summary>
@@ -56,7 +60,7 @@ Răspuns 3.
 Răspuns 4.
 </details>
 
-### Ballpit
+Ballpit
 <details markdown="1">
 <summary>**Pot să fac pipi în ballpit?**</summary>
 _Nu._  </td>
