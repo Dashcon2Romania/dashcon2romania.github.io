@@ -8,12 +8,12 @@ share-img: /assets/img/path.jpg
 tags: [info]
 ---
 
- ####  _Let me tell you about DashCon..._
+#### _Let me tell you about DashCon..._
 
 <details markdown="1">
 <summary>Versiunea în Română</summary>
 
- ### CE este _DashCon 2: România_?
+### CE este _DashCon 2: România_?
 
 _DashCon 2: România_ este o convenție dedicată tuturor lucrurilor **fandom** și tuturor **fanilor** minunați care alcătuiesc aceste fandom-uri!
 
