@@ -77,11 +77,14 @@ _Nu._  </td>
  <tr>
     <td>Q1
     Q2
+        <br>
     Q3
+        <br>
     Q4
     </td>
     <td>I1
     I2
+        <br>
     I3
     I4</td>
  </tr>
