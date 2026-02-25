@@ -1,16 +1,35 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: FAQ
+subtitle: Some extra info
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+###Lorem Ipsum
+<details markdown="1">
+<summary>Question 1?</summary>
+Answer to Question 1.
+</details>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+###Lorem Ipsum
+<details markdown="1">
+<summary>Question 2?</summary>
+Answer to Question 2.
+</details>
 
-What else do you need?
+###Lorem Ipsum
+<details markdown="1">
+<summary>Question 3?</summary>
+Answer to Question 3.
+</details>
 
-### My story
+###Lorem Ipsum
+<details markdown="1">
+<summary>Question 4?</summary>
+Answer to Question 4.
+</details>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+###Lorem Ipsum
+<details markdown="1">
+<summary>Can I pee in the ballpit?</summary>
+No.
+</details>
