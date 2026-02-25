@@ -68,8 +68,7 @@ _Nu._  </td>
     </table>
     </div>
 
-
-    <table border="0">
+<table>
  <tr>
     <td><b style="font-size:30px">Questions</b></td>
     <td><b style="font-size:30px">Întrebări</b></td>
@@ -80,7 +79,10 @@ _Nu._  </td>
         <br>
     Q3
         <br>
-    Q4
+    <details markdown="1">
+<summary>Question 1?</summary>
+Answer to Question 1.
+</details>
     </td>
     <td>I1
     I2
