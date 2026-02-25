@@ -22,6 +22,7 @@ author: Arlekinni SRL
 navbar-links:
   FAQ: "faq"
   About Us: "aboutus"
+  Rules: "rules"
   Social Media Links:
     - Example: "https://catoftheday.com/"
     - Example2: "https://en.wikipedia.org/wiki/Ball_pit"
@@ -64,7 +65,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: aa
+#  instagram: aa
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
