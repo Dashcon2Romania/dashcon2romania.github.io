@@ -13,7 +13,7 @@ tags: [info]
 <details markdown="1">
 <summary>Versiunea în Română</summary>
 
-### CE este _DashCon 2: România_?
+### CE este _DashCon 2: România_ ?
 
 _DashCon 2: România_ este o convenție dedicată tuturor lucrurilor **fandom** și tuturor **fanilor** minunați care alcătuiesc aceste fandom-uri!
 
@@ -44,7 +44,7 @@ LISTA ACTIVITATI
 </details>
 
 
-### What IS _DashCon 2: Romania_?
+### What IS _DashCon 2: Romania_ ?
 
 _DashCon 2: Romania_ is a convention dedicated to all things **fandom** and to the beautiful **fans** that make up said fandoms!
 
