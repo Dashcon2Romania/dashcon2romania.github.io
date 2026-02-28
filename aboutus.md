@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Meet the DashCon 2: Romania team!
+subtitle: Meet the DashCon 2 Romania team!
 ---
 
 ![pic of us]({{site.baseurl}}/picofus.png)
