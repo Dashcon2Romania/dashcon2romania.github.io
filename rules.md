@@ -4,6 +4,8 @@ title: Rules
 subtitle: Reguli
 ---
 
+## RO
+
 #### Prin cumpărarea biletului și/sau participarea la evenimentul Dashcon 2: România, îți asumi răspunderea că ai citit și o să urmezi următoarele reguli:
 
 
@@ -41,7 +43,10 @@ Vă rugăm insistent să nu aruncați gunoaie pe jos și să vă purtați decent
 
 _Mulțumim!_
 
+
 ---
+
+## EN
 
 #### By purchasing a ticket and/or by participating at the Dashcon 2: Romania event, you understand and agree to comply with the following rules:
 
