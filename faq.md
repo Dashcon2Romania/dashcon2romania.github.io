@@ -53,7 +53,7 @@ subtitle: Some extra info
      </h3>
     <strong>Will there be a ballpit?</strong>
      <br>
-     <strong>Yes!</strong>
+     <em>Yes!</em>
      <br>
       <br>
      <strong>Can I piss in the ball pit?</strong>
@@ -106,7 +106,7 @@ subtitle: Some extra info
     </h3>
     <strong>Chiar o să aveți o piscină cu bile?</strong>
     <br>
-    <strong>Da!</strong>
+    <em>Da!</em>
     <br>
     <br>
     <strong>Am voie să fac pipi în bile?</strong>
