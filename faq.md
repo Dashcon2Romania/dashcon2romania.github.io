@@ -45,9 +45,9 @@ subtitle: Some extra info
      Yes. We care a lot about the safety and comfort of our attendees so we will do our best to ensure a safe convention experience!
      <br>
       <br>
-     <h4>
+     <h2>
       Ball pit.
-     </h4>
+     </h2>
     <strong>Will there be a ballpit?</strong>
      <br>
      <strong>Yes!</strong>
@@ -94,9 +94,9 @@ subtitle: Some extra info
      Da. Punem foarte mult accentul pe siguranța și confortul participanților, așa că o să facem tot ce putem să aveți parte de o experiență de convenție sigură!
     <br>
     <br>
-    <h4>
+    <h2>
      Piscina cu bile.
-    </h4>
+    </h2>
     <strong>Chiar o să aveți o piscină cu bile?</strong>
     <br>
     <strong>Da!</strong>
