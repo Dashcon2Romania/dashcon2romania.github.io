@@ -13,6 +13,7 @@ subtitle: Some extra info
  </tr>
  <tr>
     <td>
+     <p style="text-align:center;">
      <strong>First of all...Is this real?</strong>
      <br>
      Yep! This is totally real and it will happen in November this year! <em>Stay tuned for more details soon!</em>
@@ -59,9 +60,11 @@ subtitle: Some extra info
      <br>
      <em>No.</em>
       <br>
+     </p>
      </td>
   
   <td>
+   <p style="text-align:center;">
     <strong>Chiar faceți o convenție?</strong>
     <br>
      Da! Convenția este reală și se va ține în Noiembrie anul acesta! <em>Mai multe detalii în curând!</em>
@@ -110,6 +113,7 @@ subtitle: Some extra info
     <br>
     <em>Nu.</em>
     <br>
+   </p>
   </td>
  </tr>
 </table>
