@@ -7,7 +7,7 @@ cover-img: /assets/img/clowncoverimage.png
 
 ### Măriuca (Muh-Ree-Ooh-Ka)
 *She/Her | Balloon Artist*
-![mariuca.png](https://github.com/Dashcon2Romania/dashcon2romania.github.io/blob/master/assets/img/mariuca.png?raw=true)
+![mariuca.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/mariucafinal.png)
 
 Măriuca is your classic Party Clown with a bubbly and colourful personality, a chronic need for attention and a confident mischievous streak. 
 She can usually be found hiding around the corner, ready to either spook you or dazzle you with her balloon creations, just to keep you on your toes! 
