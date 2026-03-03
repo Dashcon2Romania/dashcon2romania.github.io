@@ -33,9 +33,11 @@ subtitle: Some extra info
      Our team members have both experience in organizing shows and events as well as a lot of guts, courage and ambition.
      <br>
       <br>
-    <strong>Why Dashcon 2?</strong>
+    <strong>Why <em>Dashcon 2?</em></strong>
      <br>
-     Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. We hope our little version of the event will bring you all a slice of the authentic experience and a big heap of fun!
+     Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. 
+     <br>
+     We hope our little version of the event will bring you all a slice of the authentic experience and a big heap of fun!
      <br>
       <br>
     <strong>Will you ensure security for the event?</strong>
@@ -56,33 +58,37 @@ subtitle: Some extra info
      <em>No.</em>
       <br>
      </td>
+  
   <td>
      <h4>
+     <br>
    Întrebări generale
     </h4>
     <strong>Chiar faceți o convenție?</strong>
     <br>
      Da! Convenția este reală și se va ține în Noiembrie anul acesta! <em>Mai multe detalii în curând!</em>
     <br>
-    <br>
+     <br>
     <strong>
      Sunteți aceeași echipă care a organizat Dashcon 2?
     </strong>
     <br>
     Nu. Chiar dacă ne-au îndrumat mult și ținem legătura, ei nu sunt implicați în organizarea acestui eveniment, dar ne-au dorit tot binele și ne susțin de la distanță!
     <br>
-    <br>
+     <br>
     <strong>Cine sunteți?</strong>
     <br>
      Suntem o mică echipă de cosplayeri români care țin cu mult drag la tot ce ține de fandom și de online!
     <br>
      Membrii echipei noastre au atât experiență în organizarea de spectacole și evenimente cât și mult tupeu, curaj și ambiție.
     <br>
+     <br>
+    <strong>De ce <em>Dashcon 2?</em></strong>
     <br>
-    <strong>Why Dashcon 2?</strong>
-     <br>
-     Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. We hope our little version of the event will bring you all a slice of the authentic experience and a big heap of fun!
-     <br>
+     Fiind cronic online de când eram mici, Dashcon a fost mereu un simbol al acceptării și al creativității. Acum vrem sa aducem această experiență a unei convenții tip Dashcon 2 și în colțul nostru de lume, atât pentru comunitatea noastră locală cât și pentru oricine altcineva ar dori să participe la convenția originală dar nu poate din motive monetare, de distanță și așa mai departe.
+    <br>
+     Sperăm ca versiunea noastră mai restrânsă a evenimentului să vă poată aduce tuturor o mică felie din magia autentică Dashcon și o mare doză de distracție!
+    <br>
       <br>
     <strong>O să asigurați pază la eveniment?</strong>
     <br>
