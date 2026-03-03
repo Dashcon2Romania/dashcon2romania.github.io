@@ -27,6 +27,7 @@ subtitle: Some extra info
      <br>
      We’re a small team of romanian cosplayers who really enjoy fandom space and internet culture.
      <br>
+      <br>
      Our team members have both experience in organizing shows and events as well as a lot of guts, courage and ambition.
      <br>
       <br>
@@ -34,6 +35,7 @@ subtitle: Some extra info
      <br>
      Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. 
      <br>
+      <br>
      We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. 
      <br>
      <br>
@@ -76,12 +78,14 @@ subtitle: Some extra info
     <br>
      Suntem o mică echipă de cosplayeri români care țin cu mult drag la tot ce ține de fandom și de online!
     <br>
+    <br>
      Membrii echipei noastre au atât experiență în organizarea de spectacole și evenimente cât și mult tupeu, curaj și ambiție.
     <br>
      <br>
     <strong>De ce <em>Dashcon 2?</em></strong>
     <br>
      Fiind cronic online de când eram mici, Dashcon a fost mereu un simbol al acceptării și al creativității. 
+    <br>
     <br>
    Acum vrem sa aducem această experiență a unei convenții tip Dashcon 2 și în colțul nostru de lume, atât pentru comunitatea noastră locală cât și pentru oricine altcineva ar dori să participe la convenția originală dar nu poate din motive monetare, de distanță și așa mai departe.
     <br>
