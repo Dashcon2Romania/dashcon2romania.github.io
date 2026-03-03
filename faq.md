@@ -35,7 +35,10 @@ subtitle: Some extra info
       <br>
     <strong>Why <em>Dashcon 2?</em></strong>
      <br>
-     Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. 
+     Being chronically online from a young age, Dashcon has always been a symbol of acceptance and creativity. 
+     <br>
+     We want to bring the experience of a convention like Dashcon 2 over to this corner of the world for our local community and for everybody else who wishes they could attend the big one but aren't able because of the distance, monetary constraints and so on.. 
+     <br>
      <br>
      We hope our little version of the event will bring you all a slice of the authentic experience and a big heap of fun!
      <br>
@@ -50,7 +53,7 @@ subtitle: Some extra info
      </h4>
     <strong>Will there be a ballpit?</strong>
      <br>
-     Yes!
+     <strong>Yes!</strong>
      <br>
       <br>
      <strong>Can I piss in the ball pit?</strong>
@@ -85,8 +88,11 @@ subtitle: Some extra info
      <br>
     <strong>De ce <em>Dashcon 2?</em></strong>
     <br>
-     Fiind cronic online de când eram mici, Dashcon a fost mereu un simbol al acceptării și al creativității. Acum vrem sa aducem această experiență a unei convenții tip Dashcon 2 și în colțul nostru de lume, atât pentru comunitatea noastră locală cât și pentru oricine altcineva ar dori să participe la convenția originală dar nu poate din motive monetare, de distanță și așa mai departe.
+     Fiind cronic online de când eram mici, Dashcon a fost mereu un simbol al acceptării și al creativității. 
     <br>
+   Acum vrem sa aducem această experiență a unei convenții tip Dashcon 2 și în colțul nostru de lume, atât pentru comunitatea noastră locală cât și pentru oricine altcineva ar dori să participe la convenția originală dar nu poate din motive monetare, de distanță și așa mai departe.
+    <br>
+   <br>
      Sperăm ca versiunea noastră mai restrânsă a evenimentului să vă poată aduce tuturor o mică felie din magia autentică Dashcon și o mare doză de distracție!
     <br>
       <br>
@@ -100,7 +106,7 @@ subtitle: Some extra info
     </h4>
     <strong>Chiar o să aveți o piscină cu bile?</strong>
     <br>
-    <em>Da!</em>
+    <strong>Da!</strong>
     <br>
     <br>
     <strong>Am voie să fac pipi în bile?</strong>
