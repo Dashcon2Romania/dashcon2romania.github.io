@@ -6,7 +6,9 @@ cover-img: /assets/img/clowncoverimage.png
 ---
 
 <h2 style="text-align:right;">Măriuca (Muh-Ree-Ooh-Ka)</h2>
-### *She/Her | Balloon Artist*
+<p style="text-align:center;">
+  *She/Her | Balloon Artist*
+</p>
 ![mariuca.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/mariucafinal.png)
 Măriuca is your classic Party Clown with a bubbly and colourful personality, a chronic need for attention and a confident mischievous streak. 
 She can usually be found hiding around the corner, ready to either spook you or dazzle you with her balloon creations, just to keep you on your toes! 
@@ -22,7 +24,9 @@ Despite being born in Transilvania, she denies the vampire allegations.
 ---
 
 <h2 style="text-align:right;">Critter</h2>
-### *They/It | Baton Twirler*
+<p style="text-align:center;">
+*They/It | Baton Twirler*
+</p>
 ![critter.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/critter.png)
 Critter hails from a long line of Pierrots and as a consequence, they’ve got chronic anxiety and depression. All that doesn’t stop it from aspiring to become a top notch dancer and twirler (even if their mother disapproves of such a happy career path).
 
