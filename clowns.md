@@ -6,7 +6,7 @@ cover-img: /assets/img/clowncoverimage.png
 ---
 
 <h2 style="text-align:right;">Măriuca (Muh-Ree-Ooh-Ka)</h2>
-<p style="text-align:center;">
+<p style="text-align:right;">
   <em>She/Her | Balloon Artist</em>
 </p>
 ![mariuca.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/mariucafinal.png)
@@ -25,8 +25,8 @@ Despite being born in Transilvania, she denies the vampire allegations.
 ---
 
 <h2 style="text-align:right;">Critter</h2>
-<p style="text-align:center;">
-<em>They/It | Baton Twirler*</em>
+<p style="text-align:right;">
+<em>They/It | Baton Twirler</em>
 </p>
 ![critter.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/critter.png)
 Critter hails from a long line of Pierrots and as a consequence, they’ve got chronic anxiety and depression. All that doesn’t stop it from aspiring to become a top notch dancer and twirler (even if their mother disapproves of such a happy career path).
