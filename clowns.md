@@ -19,6 +19,7 @@ Despite being born in Transilvania, she denies the vampire allegations.
 
 
 **Likes:** Marina and the Diamonds, Adventure Time,Steven Universe, Anime, Cosplay
+<br>
 **Dislikes:** Being told to get a real job, Running out of body paint, Tax
 
 ---
