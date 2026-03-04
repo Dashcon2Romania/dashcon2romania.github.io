@@ -3,7 +3,7 @@ layout: page
 title: Rules
 subtitle: Reguli
 ---
-
+<link rel="stylesheet" href="clownstyle.css">
 
 ## EN
 
