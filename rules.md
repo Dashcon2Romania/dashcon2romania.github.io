@@ -24,7 +24,8 @@ subtitle: Reguli
 - putting on music at high volume via phone, bluetooth speakers etc;
 - screaming and speaking excessiely loud;
 - intentionally intrerrupting the performers on stage.
-<br>
+
+
 
 7. We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
 
@@ -68,7 +69,8 @@ _Thank you!_
 - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
 - țipatul sau vorbitul excesiv de gălăgios;
 - întreruperea oamenilor care sunt pe scenă în mod intenționat.
-<br>
+
+
 
 7. Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
 
