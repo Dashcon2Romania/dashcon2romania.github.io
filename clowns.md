@@ -1,8 +1,6 @@
 ---
 layout: page
-title: Meet the Clowns!
-subtitle: Welcome to Cirque du Dash!
-cover-img: /assets/img/clowncoverimage.png
+cover-img: /assets/img/idea_bg__logo.png
 ---
 
 <h2 style="text-align:right;">Măriuca (Muh-Ree-Ooh-Ka)</h2>
