@@ -844,11 +844,11 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #F2E8BA;
+  background-color: #FFF8D6;
 }
 table tr th,
 table tr td {
-  border: 1px solid #cccccc;
+  border: 1px solid #438EF6;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
