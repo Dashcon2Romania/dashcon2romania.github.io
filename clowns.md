@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/idea_bg__logo.png
+cover-img: /assets/img/idea_bg__logo2.png
 ---
 
 <h2 style="text-align:right;">Măriuca (Muh-Ree-Ooh-Ka)</h2>
