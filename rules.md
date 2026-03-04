@@ -25,6 +25,7 @@ subtitle: Reguli
 - screaming and speaking excessiely loud;
 - intentionally intrerrupting the performers on stage.
 
+
 7. We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
 
 Harrassment can mean, but is not limited to:
@@ -67,6 +68,7 @@ _Thank you!_
 - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
 - țipatul sau vorbitul excesiv de gălăgios;
 - întreruperea oamenilor care sunt pe scenă în mod intenționat.
+
 
 7. Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
 
