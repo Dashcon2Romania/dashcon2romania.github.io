@@ -24,7 +24,7 @@ Despite being born in Transilvania, she denies the vampire allegations.
 
 ---
 
-<h2 style="text-align:right;">Critter</h2>
+<h2 style="text-align:right;">Critter (Cri-tăr) </h2>
 <p style="text-align:right;">
 <em>They/It | Baton Twirler</em>
 </p>
