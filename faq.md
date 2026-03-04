@@ -113,7 +113,7 @@ subtitle: Some extra info
     <em>Da!</em>
     <br>
     <br>
-    <strong>Am voie să fac pipi în bile?</strong>
+    <strong>Am voie să fac pipi în piscina cu bile?</strong>
     <br>
     <em>Nu.</em>
     <br>
