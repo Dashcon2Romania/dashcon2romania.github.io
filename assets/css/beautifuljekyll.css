@@ -179,9 +179,9 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo {
-  -webkit-transition: padding .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;
+  -webkit-transition: padding .15s ease-in-out;
+  -moz-transition: padding .15s ease-in-out;
+  transition: padding .15s ease-in-out;
 }
 
 .navbar-custom .navbar-brand-logo,
@@ -192,15 +192,15 @@ img {
 }
 
 .navbar-custom .navbar-brand-logo img {
-  -webkit-transition: height .50s ease-in-out;
-  -moz-transition: height .50s ease-in-out;
-  transition: height .50s ease-in-out;
+  -webkit-transition: height .5s ease-in-out;
+  -moz-transition: height .5s ease-in-out;
+  transition: height .5s ease-in-out;
 }
 
 .navbar-custom .navbar-brand-logo img,
 .navbar-custom.top-nav-short .navbar-brand-logo img,
 .navbar-custom.top-nav-short-permanent .navbar-brand-logo img {
-  height: 8.5rem;
+  height: 2.5rem;
 }
 
 .navbar-custom .navbar-nav .nav-item {
