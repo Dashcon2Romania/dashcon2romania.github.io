@@ -53,7 +53,7 @@ subtitle: Some extra info
      <h3>
       Ball pit.
      </h3>
-    <strong>Will there be a ballpit?</strong>
+    <strong>Will there be a ball pit?</strong>
      <br>
      <em>Yes!</em>
      <br>
