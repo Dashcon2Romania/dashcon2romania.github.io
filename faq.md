@@ -58,7 +58,7 @@ subtitle: Some extra info
      <em>Yes!</em>
      <br>
       <br>
-     <strong>Can I piss in the ball pit?</strong>
+     <strong>Can I pee in the ball pit?</strong>
      <br>
      <em>No.</em>
       <br>
