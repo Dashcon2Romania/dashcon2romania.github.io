@@ -10,18 +10,34 @@ cover-img: /assets/img/idea_bg__logo3.png
 </p>
 ---
 ![mariuca.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/Mariuca_Bio2.png)
----
-Măriuca is your classic Party Clown with a bubbly and colourful personality, a chronic need for attention and a confident mischievous streak. 
-She can usually be found hiding around the corner, ready to either spook you or dazzle you with her balloon creations, just to keep you on your toes! 
 
-When she’s not out making friends and falling for scams she’s either crafting a contraption or drawing fanart of her favourite characters kissing. 
+---
+Măriuca is your classic Party Clown with a bubbly and colourful personality, a chronic need for attention and a confident mischievous streak. She can usually be found hiding around the corner, ready to either spook you or dazzle you with her balloon creations, just to keep you on your toes!
+
+When she’s not out making friends and falling for scams she’s either crafting a contraption or drawing fanart of her favourite characters kissing.
 
 Despite being born in Transilvania, she denies the vampire allegations.
 
 
-**Likes:** Marina and the Diamonds, Adventure Time,Steven Universe, Anime, Cosplay
+**Likes:** Marina and the Diamonds, Adventure Time, Steven Universe, Anime, Cosplay
 <br>
-**Dislikes:** Being told to get a real job, Running out of body paint, Tax
+**Dislikes:** Being told to get a real job, Running out of body paint, Taxes
+
+<details markdown="1">
+<summary>Traducere!</summary>
+Măriuca este un claun clasic de petrecere, cu o personalitate veselă și colorată, o nevoie cronică de atenție și o parte încrezătoare și poznașă. De obicei, o poți găsi ascunsă după un colț, gata să te sperie sau să te surprindă cu creațiile ei din baloane, doar ca să te țină în alertă!
+
+Când nu este ocupată făcându-și prieteni sau nu cade în plasa unor escrocherii, este in camera ei construind câte o invenție sau desenând fanart cu personajele ei preferate sărutându-se.
+
+Deși s-a născut în Transilvania, ea neagă acuzațiile cum că ar fi vampir.
+
+
+**Îi place:** Marina and the Diamonds, Adventure Time, Steven Universe, Anime, Cosplay
+<br>
+**Nu-i place:** Să i se spună să-și ia un loc de muncă "adevărat" , Să rămână fără vopsea de corp, Taxele
+</details>
+
+
 
 ---
 
