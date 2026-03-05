@@ -51,10 +51,11 @@ Deși s-a născut în Transilvania, ea neagă acuzațiile cum că ar fi vampir.
 ![critter.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/Critter_Bio2.png)
 
 ---
-Critter hails from a long line of Pierrots and as a consequence, they’ve got chronic anxiety and depression. All that doesn’t stop it from aspiring to become a top notch dancer and twirler (even if their mother disapproves of such a happy career path).
+Critter hails from a long line of Pierrots and as a consequence, they’ve got chronic anxiety and depression. This doesn’t stop it from aspiring to become a top-notch dancer and twirler (even if their mother disapproves of such a happy career).
 
-In its free time, its got a huge passion for horror media!  ...Which really doesn’t help their paranoia and anxiety. Maybe it makes it worse? Oops. 
-Well, what also doesn't help is visiting real creepy locations for fun, though only if accompanied by Măriuca. She finds these little adventures fun!
+In its free time, it harbours a passion for horror media! Though this probably dosen't help the paranoia and anxiety. Oops. 
+
+Well, what also doesn’t help is visiting real creepy locations for fun, though only if accompanied by Măriuca. She finds these little adventures fun!
 
 It would also like to get to know Mel more but starting a conversation is the scariest thing of them all.
 
@@ -63,5 +64,19 @@ It would also like to get to know Mel more but starting a conversation is the sc
 <br>
 **Dislikes:** Being Alone, Being Infantilized, Firecrackers
 
+<details markdown="1">
+<summary>Traducere!</summary>
+Critter provine dintr-o lungă familie de Pierrot și, din cauza asta, suferă de anxietate și depresie cronică. Acest lucru nu ii oprește să viseze să devină un dansatoar de top (chiar dacă mama lor nu este de acord cu o carieră atât de fericită).
 
+În timpul liber, are o mare pasiune pentru horror media! Deși probabil că nu ajută cu paranoia și anxietatea. Oops.
+
+Un alt lucru care nu ajută este să viziteze locații bântuite pentru distracție, deși o poate face numai dacă este însoțit de Măriuca. Ea crede că aceste mici aventuri sunt distractive!
+
+De asemenea, ar vrea să il cunoască pe Mel mai bine, dar să începi o conversație este cel mai înfricoșător lucru posibil.
+
+
+**Îi place:** Horror Media, The Magnus Archives, Supernatural, Inevitabilitatea Morții, K-pop
+<br>
+**Nu-i place:** Sa fie singur, Sa fie infantilizat, Petardele
+</details>
 
