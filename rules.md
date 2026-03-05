@@ -65,6 +65,7 @@ _Thank you!_
 5. Fumatul, inclusiv de țigări electronice, este interzis în incinta hotelului.
 
 6. Interzicem comportamentul care ar deranja oamenii din jur sau ar distrage atenția de la activitățile de pe scenă, cum ar fi:
+
 - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
 - țipatul sau vorbitul excesiv de gălăgios;
 - întreruperea oamenilor care sunt pe scenă în mod intenționat.
