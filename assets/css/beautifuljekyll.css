@@ -46,7 +46,7 @@ body {
   flex-direction: column;
 }
 body > main {
-  flex: 1;
+  flex: 0.25;
 }
 p {
   line-height: 1.5;
