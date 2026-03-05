@@ -800,7 +800,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-left: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .pagination.blog-pager {
     margin-top: 0.625rem;
   }
@@ -818,7 +818,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: var(--text-col);
   padding: 0.75rem 1rem;
 }
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
   .pagination .page-item .page-link {
     padding: 0.9375rem 1.5625rem;
   }
