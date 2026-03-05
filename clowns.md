@@ -9,6 +9,7 @@ cover-img: /assets/img/idea_bg__logo3.png
   <em>She/Her | Balloon Artist</em>
 </p>
 ---
+
 ![mariuca.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/Mariuca_Bio2.png)
 
 ---
@@ -46,7 +47,9 @@ Deși s-a născut în Transilvania, ea neagă acuzațiile cum că ar fi vampir.
 <em>They/It | Baton Twirler</em>
 </p>
 ---
+
 ![critter.png](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/Critter_Bio2.png)
+
 ---
 Critter hails from a long line of Pierrots and as a consequence, they’ve got chronic anxiety and depression. All that doesn’t stop it from aspiring to become a top notch dancer and twirler (even if their mother disapproves of such a happy career path).
 
