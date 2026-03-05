@@ -24,8 +24,10 @@ subtitle: Reguli
   - putting on music at high volume via phone, bluetooth speakers etc;
   - screaming and speaking excessiely loud;
   - intentionally intrerrupting the performers on stage.
+
 ‎
 - We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
+
 
 Harrassment can mean, but is not limited to:
   - insults towards a person or group of people on the basis of: physical appearance, race, ethnicity, sexual orientation, gender identity or religious beliefs.
@@ -70,6 +72,7 @@ _Thank you!_
 
 ‎
 - Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
+
 
 Hărțuire poate însemna, dar nu este limitată doar la:
   - comentarii jignitoare adresate unei persoane sau grup de persoane pe bază de: aspect fizic, rasă, etnie, orientare sexuală, identitate de gen sau credințe religioase;
