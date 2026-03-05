@@ -1,7 +1,5 @@
-h1 {
-    font-family: Poppins;
-}
-
-p {
-  font-family: Oswald; sand-serif;
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1400px;
+  }
 }
