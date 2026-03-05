@@ -21,6 +21,7 @@ subtitle: Reguli
 5. Smoking, including electronic cigarettes, is strictly forbidden inside the event venue.
 
 6. We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
+
 - putting on music at high volume via phone, bluetooth speakers etc;
 - screaming and speaking excessiely loud;
 - intentionally intrerrupting the performers on stage.
