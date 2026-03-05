@@ -4,7 +4,7 @@ title: About Us
 subtitle: Meet the DashCon 2 Romania team!
 ---
 
-![pic of us]({{site.baseurl}}/picofus.png)
+![usinballs](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/usinballs.png)
 
 We’re a small team of romanian cosplayers who really enjoy the fandom space and internet culture and wish to do our favourite thing: Go to a convention! And the coolest thing is, it will have all of our favourite activities that we've wanted to see for a long time implemented over here. Because we made it! _Yippee!_
 
@@ -12,6 +12,9 @@ We’re a small team of romanian cosplayers who really enjoy the fandom space an
 
 ---
 
-Suntem o mică echipă de cosplayeri români care țin cu mult drag la tot ce ține de fandom și de online și vrem doar să facem ce ne place cel mai tare: Să mergem la o convenție! Și cel mai tare este că, acum, o să aibă cu siguranță toate activitățile pe care am vrut să le vedem implementate într=o singură convenție. Pentru că noi decidem! _Yippee!_
+Suntem o mică echipă de cosplayeri români care iubesc tot ce ține de fandom și cultura online și ne dorim să facem ce ne place cel mai mult: Să mergem la o convenție! Și cea mai bună parte este că putem fi siguri că o să aibă toate activitățile pe care am vrut să le vedem implementate într-o convenție. Pentru că noi am făcut-o! _Yippee!_
 
-**Chiar sper ca acest eveniment să fie la fel de special pentru toată lume, cum este și pentru noi.**
+**Chiar sperăm ca acest eveniment să fie la fel de special pentru toată lumea, cum este și pentru noi.**
+
+---
+
