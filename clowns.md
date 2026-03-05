@@ -1,7 +1,8 @@
 ---
 layout: page
-cover-img: /assets/img/idea_bg__logo3.png
 ---
+
+![header](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/idea_bg__logo.png)
 
 ---
 <h2 style="text-align:center;">Măriuca (Muh-Ree-Ooh-Ka)</h2>
