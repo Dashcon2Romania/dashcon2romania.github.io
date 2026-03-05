@@ -3,7 +3,7 @@ layout: post
 title: What IS Dashcon 2 Romania?
 subtitle: CE este Dashcon 2 România?
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/tada.png
 share-img: /assets/img/path.jpg
 tags: [info]
 ---
