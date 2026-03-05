@@ -27,7 +27,7 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 120%
+  font-size: 100%
 }
 
 body {
@@ -46,11 +46,11 @@ body {
   flex-direction: column;
 }
 body > main {
-  flex: 0.25;
+  flex: 1;
 }
 p {
   line-height: 1.5;
-  margin: 0.875rem 0;
+  margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
@@ -788,7 +788,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 /* --- Pagination --- */
 
 .pagination {
-  margin: 0.025rem 0 0;
+  margin: 0.625rem 0 0;
   justify-content: space-between;
 }
 
@@ -800,7 +800,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   margin-left: auto;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
   .pagination.blog-pager {
     margin-top: 0.625rem;
   }
@@ -818,7 +818,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   color: var(--text-col);
   padding: 0.75rem 1rem;
 }
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
   .pagination .page-item .page-link {
     padding: 0.9375rem 1.5625rem;
   }
