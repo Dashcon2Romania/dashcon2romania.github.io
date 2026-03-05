@@ -24,7 +24,7 @@ navbar-links:
   About Us: "aboutus"
   Meet the Clowns: "clowns"
   Rules: "rules"
-  Social Media Links:
+  Socials:
     - Example: "https://catoftheday.com/"
     - Example2: "https://en.wikipedia.org/wiki/Ball_pit"
 
