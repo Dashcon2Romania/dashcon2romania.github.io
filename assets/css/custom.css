@@ -2,10 +2,9 @@
 ---
 
 @media (min-width: 1200px) {
-  .container,
-  .container-md,
-  .container-lg,
-  .container-xl {
-    max-width: 1400px;
+  .col-xl-8.offset-xl-2 {
+    flex: 0 0 92%;
+    max-width: 92%;
+    margin-left: 4%;
   }
 }
