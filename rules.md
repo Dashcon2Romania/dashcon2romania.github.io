@@ -10,25 +10,23 @@ subtitle: Reguli
 #### By purchasing a ticket and/or by participating at the Dashcon 2: Romania event, you understand and agree to comply with the following rules:
 
 
-1. Access to the event will be granted via wristband. The wristbands will be provided at the entrance after presenting a valid ticket.
+- Access to the event will be granted via wristband. The wristbands will be provided at the entrance after presenting a valid ticket.
 
-2. Possession of illicit substances, alcohol, sharp objects or weapons inside the venue is strictly forbidden.
+- Possession of illicit substances, alcohol, sharp objects or weapons inside the venue is strictly forbidden.
 
-3. Children under the age of 13 should be accompanied by a legal guardian for the entire duration of their attendence at the event.
+- Children under the age of 13 should be accompanied by a legal guardian for the entire duration of their attendence at the event.
 
-4. Bringing pets inside the venue is strictly forbidden.
+- Bringing pets inside the venue is strictly forbidden.
 
-5. Smoking, including electronic cigarettes, is strictly forbidden inside the event venue.
+- Smoking, including electronic cigarettes, is strictly forbidden inside the event venue.
 
-6. We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
-
-- putting on music at high volume via phone, bluetooth speakers etc;
-- screaming and speaking excessiely loud;
-- intentionally intrerrupting the performers on stage.
-
+- We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
+  - putting on music at high volume via phone, bluetooth speakers etc;
+  - screaming and speaking excessiely loud;
+  - intentionally intrerrupting the performers on stage.
 
 ‎
-7. We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
+- We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
 
 Harrassment can mean, but is not limited to:
 - insults towards a person or group of people on the basis of: physical appearance, race, ethnicity, sexual orientation, gender identity or religious beliefs.
@@ -66,14 +64,13 @@ _Thank you!_
 
 5. Fumatul, inclusiv de țigări electronice, este interzis în incinta hotelului.
 
-6. Interzicem comportamentul care ar deranja oamenii din jur sau ar distrage atenția de la activitățile de pe scenă, cum ar fi:
+- Interzicem comportamentul care ar deranja oamenii din jur sau ar distrage atenția de la activitățile de pe scenă, cum ar fi:
+  - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
+  - țipatul sau vorbitul excesiv de gălăgios;
+  - întreruperea oamenilor care sunt pe scenă în mod intenționat.
 
-- ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
-- țipatul sau vorbitul excesiv de gălăgios;
-- întreruperea oamenilor care sunt pe scenă în mod intenționat.
-
-‎ 
-7. Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
+‎
+- Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
 
 Hărțuire poate însemna, dar nu este limitată doar la:
 - comentarii jignitoare adresate unei persoane sau grup de persoane pe bază de: aspect fizic, rasă, etnie, orientare sexuală, identitate de gen sau credințe religioase;
