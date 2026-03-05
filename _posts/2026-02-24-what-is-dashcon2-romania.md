@@ -31,7 +31,7 @@ We've been so inspired by their achievements, _and wanted so badly to have an ex
 _Now_, I mean it when I said _little version_. We’re nowhere near the scale of _DashCon 2_ as we’re a small team supporting all the costs ourselves and with this being our first go at a convention, we’re aiming small, learning from the [mistakes of the past](https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg).
 
 
-The event will last for **one day** and will take place in **November 2026**. _We'll be back soon with more details! _
+The event will last for **one day** and will take place on the **21st of November 2026**. _We'll be back soon with more details!_
 
 
 
@@ -61,7 +61,7 @@ Noi am fost atât de inspirați de reușitele lor, și am vrut o scuză să ne c
 Am zis intenționat _o versiune mică_. Nu suntem nici pe aproape de mărimea convenției DashCon 2. Suntem o echipă mică care suportă toate cheltuielile și, fiind prima noastră încercare la un eveniment de acest nivel, țintim spre o scară mică, învățând din [greșelile predecesorilor noștri](https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg).
 
 
-Evenimentul va dura **o zi** și va avea loc în luna **noiembrie 2026**. _Vom reveni curand cu mai multe detalii! _
+Evenimentul va dura **o zi** și va avea loc pe data de **21 noiembrie 2026**. _Vom reveni în curând cu mai multe detalii!_
 
 
 
