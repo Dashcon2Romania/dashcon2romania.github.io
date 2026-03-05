@@ -1,6 +1,11 @@
 ---
 ---
 
-body {
-  background: red;
+@media (min-width: 1200px) {
+  .container,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    max-width: 1400px;
+  }
 }
