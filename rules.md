@@ -7,7 +7,7 @@ subtitle: Reguli
 
 ## EN
 
-#### By purchasing a ticket and/or by participating at the Dashcon 2: Romania event, you understand and agree to comply with the following rules:
+#### By purchasing a ticket and/or by participating at the DashCon 2: Romania event, you understand and agree to comply with the following rules:
 
 
 - Access to the event will be granted via wristband. The wristbands will be provided at the entrance after presenting a valid ticket.
@@ -52,7 +52,7 @@ _Thank you!_
 
 ## RO
 
-#### Prin cumpărarea biletului și/sau participarea la evenimentul Dashcon 2: România, îți asumi răspunderea că ai citit și o să urmezi următoarele reguli:
+#### Prin cumpărarea biletului și/sau participarea la evenimentul DashCon 2: România, îți asumi răspunderea că ai citit și o să urmezi următoarele reguli:
 
 
 - Intrarea în incinta evenimentului se va face doar pe bază de brățară. Brățările vor fi furnizate la intrare după prezentarea biletului.
