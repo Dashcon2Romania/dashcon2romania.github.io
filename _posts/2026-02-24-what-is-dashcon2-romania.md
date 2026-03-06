@@ -25,7 +25,7 @@ We've been so inspired by their achievements, _and wanted so badly to have an ex
 ...**They actually replied!** So we've licensed the "DashCon 2" name from them and they graciously gave us their blessing to have a go at it!
 
 
-#### We're beyond ourselves with excitement to announce it for you all: **_DashCon 2: Romania!_**
+### We're beyond ourselves with excitement to announce it for you all: **_DashCon 2: Romania!_**
 
 
 _Now_, I mean it when I said _little version_. We’re nowhere near the scale of _DashCon 2_ as we’re a small team supporting all the costs ourselves and with this being our first go at a convention, we’re aiming small, learning from the [mistakes of the past](https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg).
@@ -35,7 +35,7 @@ The event will last for **one day** and will take place on the **21st of Novembe
 
 
 
-... and _yes_! We'll have a ball pit.
+#### ... and _yes_! We'll have a ball pit.
 
 
 <details markdown="1">
@@ -55,7 +55,7 @@ Noi am fost atât de inspirați de reușitele lor, și am vrut o scuză să ne c
 .. **Și chiar ne-au răspuns!** Așa am ajuns să licențiem numele de "DashCon 2" de la ei și, mai mult de atât, ei ne-au dat binecuvântarea lor să ne facem de cap!
 
 
-#### Suntem incredibil de încântați să vă prezentăm: **_DashCon 2: România!_**
+### Suntem incredibil de încântați să vă prezentăm: **_DashCon 2: România!_**
 
 
 Am zis intenționat _o versiune mică_. Nu suntem nici pe aproape de mărimea convenției DashCon 2. Suntem o echipă mică care suportă toate cheltuielile și, fiind prima noastră încercare la un eveniment de acest nivel, țintim spre o scară mică, învățând din [greșelile predecesorilor noștri](https://upload.wikimedia.org/wikipedia/en/7/77/DashCon_Ball_Pit.jpg).
@@ -65,6 +65,6 @@ Evenimentul va dura **o zi** și va avea loc pe data de **21 noiembrie 2026**. _
 
 
 
-... și _da_! O să avem o piscină cu bile.
+#### ... și _da_! O să avem o piscină cu bile.
 
 </details>
