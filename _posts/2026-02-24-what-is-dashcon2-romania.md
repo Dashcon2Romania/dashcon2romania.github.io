@@ -22,7 +22,7 @@ Now, _DashCon **2**_ is a wonderful and magical re-invention of the old event or
 
 We've been so inspired by their achievements, _and wanted so badly to have an excuse to buy a big ball pit_, that we've asked them if we can try our hand at a small little off-shoot version of the event here in Romania! 
 
-...**They actually replied!** And even graciously gave us their blessing to have a go at it!
+...**They actually replied!** So we've licensed the "DashCon 2" name from them and they graciously gave us their blessing to have a go at it!
 
 
 #### We're beyond ourselves with excitement to announce it for you all: **_DashCon 2: Romania!_**
@@ -52,7 +52,7 @@ Acum  _DashCon **2**_ este o recreere minunată și magică a vechiului evenimen
 
 Noi am fost atât de inspirați de reușitele lor, și am vrut o scuză să ne cumpărăm o piscină mare cu bile, încât le-am trimis un email întrebându-i dacă ne-ar da voie să facem o mică versiune a evenimentului aici în România!
 
-.. **Și chiar ne-au răspuns!** Mai mult de atât, ne-au dat binecuvântarea lor să ne facem de cap!
+.. **Și chiar ne-au răspuns!** Așa am ajuns să licențiem numele de "DashCon 2" de la ei și, mai mult de atât, ei ne-au dat binecuvântarea lor să ne facem de cap!
 
 
 #### Suntem incredibil de încântați să vă prezentăm: **_DashCon 2: România!_**
