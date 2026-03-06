@@ -18,7 +18,7 @@ subtitle: Reguli
 
 - Bringing pets inside the venue is strictly forbidden.
 
-- Smoking, including electronic cigarettes, is strictly forbidden inside the event venue.
+- Smoking cigarettes is only allowed in the designated areas but please be mindful of people with asthma, long Covid or other respiratory disabilities.
 
 - We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
   - putting on music at high volume via phone, bluetooth speakers etc;
@@ -63,7 +63,7 @@ _Thank you!_
 
 - Intrarea în incintă cu animale de companie este interzisă.
 
-- Fumatul, inclusiv de țigări electronice, este interzis în incinta hotelului.
+- Fumatul de țigări este permis doar în zonele special amenajate dar vă rugăm să țineți cont de persoanele cu astm, complicații Covid sau alte probleme respiratorii.
 
 - Interzicem comportamentul care ar deranja oamenii din jur sau ar distrage atenția de la activitățile de pe scenă, cum ar fi:
   - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
