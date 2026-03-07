@@ -1,5 +1,6 @@
 ---
 layout: page
+title: No.
 ---
 
-<h1 align=center> <strong>No.</strong> </h1>
+<h1 align=center> <strong>Nu.</strong> </h1>
