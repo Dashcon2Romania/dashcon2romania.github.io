@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Clowns!
 ---
 
 ![header](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/reveal0.png)
