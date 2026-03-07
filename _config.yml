@@ -20,7 +20,8 @@ author: Arlekinni SRL
 ###############################################
 
 navbar-links:
-  FAQ: "faq"
+  INFO:
+    - FAQ:"faq"
     - Rules: "rules"
     - Planning your trip: "plan"
     - Getting involved: "gettinginvolved"
