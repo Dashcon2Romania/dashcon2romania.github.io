@@ -21,9 +21,11 @@ author: Arlekinni SRL
 
 navbar-links:
   FAQ: "faq"
+    - Rules: "rules"
+    - Planning your trip: "Planning your trip"
+    - Getting involved: "Getting involved"
   About Us: "aboutus"
   Meet the Clowns: "soon"
-  Rules: "rules"
   Socials:
     - Example: "https://catoftheday.com/"
     - Example2: "https://en.wikipedia.org/wiki/Ball_pit"
