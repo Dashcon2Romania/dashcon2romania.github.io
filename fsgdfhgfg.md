@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Meet the Clowns!
 ---
 
 ![header](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/idea_bg__logo.png)
