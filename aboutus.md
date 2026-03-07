@@ -6,6 +6,9 @@ subtitle: Meet the DashCon 2 Romania team!
 
 ![usinballs](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/usinballs.png)
 
+---
+![usinballs](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/balls.png)
+---
 
 <img src="[us in balls](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/usinballs.png)" align=center>
 
