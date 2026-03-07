@@ -22,7 +22,7 @@ subtitle: Reguli
 
 - We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
   - putting on music at high volume via phone, bluetooth speakers etc;
-  - screaming and speaking excessiely loud;
+  - screaming and speaking excessively loud;
   - intentionally intrerrupting the performers on stage.
 
 ‎
