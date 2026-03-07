@@ -27,8 +27,9 @@ navbar-links:
   About Us: "aboutus"
   Meet the Clowns: "soon"
   Socials:
-    - Example: "https://catoftheday.com/"
-    - Example2: "https://en.wikipedia.org/wiki/Ball_pit"
+    - Tumblr: "https://dashcon-2-romania.tumblr.com/"
+    - TikTok: "https://www.tiktok.com/@dashcon2romania"
+    - Instagram: "https://www.instagram.com/dashcon2romania"
 
 ################
 # --- Logo --- #
