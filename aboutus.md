@@ -6,6 +6,9 @@ subtitle: Meet the DashCon 2 Romania team!
 
 ![usinballs](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/usinballs.png)
 
+
+<img src="[us in balls](https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/usinballs.png)" align=center>
+
 We’re a small team of romanian cosplayers who really enjoy the fandom space and internet culture and wish to do our favourite thing: Go to a convention! And the coolest thing is, it will have all of our favourite activities that we've wanted to see for a long time implemented over here. Because we made it! _Yippee!_
 
 **Really hope this will be as fun and special for everybody as it is for us.**
