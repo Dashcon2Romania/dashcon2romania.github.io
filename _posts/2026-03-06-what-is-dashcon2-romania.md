@@ -62,6 +62,7 @@ Am zis intenționat _o versiune mică_. Nu suntem nici pe aproape de mărimea co
 
 
 Evenimentul va dura **o zi** și va avea loc pe data de **21 noiembrie 2026**. _Vom reveni în curând cu mai multe detalii!_
+<br>
 
 
 
