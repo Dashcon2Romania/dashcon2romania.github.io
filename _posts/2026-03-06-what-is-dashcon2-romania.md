@@ -5,7 +5,7 @@ subtitle: CE este DashCon 2 România?
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/aa.png
 share-img: /assets/img/path.jpg
-tags: [info], [dashcon2romania]
+tags: [info, dashcon2romania]
 ---
 
 #### _Let me tell you about DashCon..._
