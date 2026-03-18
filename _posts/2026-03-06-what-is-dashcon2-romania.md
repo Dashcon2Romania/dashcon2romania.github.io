@@ -36,7 +36,7 @@ The event will last for **one day** and will take place on the **21st of Novembe
 
 
 #### ... and _yes_! We'll have a ball pit.
-<br>
+
 <br>
 <details markdown="1">
 <summary><strong>Traducere!</strong></summary>
