@@ -25,9 +25,9 @@ Despite being born in Transilvania, she denies the vampire allegations.
 **Likes:** Marina and the Diamonds, Adventure Time, Steven Universe, Anime, Cosplay
 <br>
 **Dislikes:** Being told to get a real job, Running out of body paint, Taxes
-
+<br>
 <details markdown="1">
-<summary>Traducere!</summary>
+<summary><strong>Traducere!</strong></summary>
 Măriuca este un claun clasic de petrecere, cu o personalitate veselă și colorată, o nevoie cronică de atenție și o parte încrezătoare și poznașă. De obicei, o poți găsi ascunsă după un colț, gata să te sperie sau să te surprindă cu creațiile ei din baloane, doar ca să te țină în alertă!
 
 Când nu este ocupată făcându-și prieteni sau nu cade în plasa unor escrocherii, este in camera ei construind câte o invenție sau desenând fanart cu personajele ei preferate sărutându-se.
@@ -65,9 +65,9 @@ It would also like to get to know Mel more but starting a conversation is the sc
 **Likes:** Horror Media, The Magnus Archives, Supernatural, The Inevitability of Death, K-pop
 <br>
 **Dislikes:** Being Alone, Being Infantilized, Firecrackers
-
+<br>
 <details markdown="1">
-<summary>Traducere!</summary>
+<summary><strong>Traducere!</strong></summary>
 Critter provine dintr-o lungă familie de Pierrot și, din cauza asta, suferă de anxietate și depresie cronică. Acest lucru nu ii oprește să viseze să devină un dansatoar de top (chiar dacă mama lor nu este de acord cu o carieră atât de fericită).
 
 În timpul liber, are o mare pasiune pentru horror media! Deși probabil că nu ajută cu paranoia și anxietatea. Oops.
