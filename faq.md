@@ -122,7 +122,7 @@ subtitle: Some extra info
      Da. Punem foarte mult accentul pe siguranța și comfortul participanților, așa că o să facem tot ce putem să aveți parte de o experiență sigură!
     <br>
     <br>
-    <strong>How is the location in terms of accessibility?</strong>
+    <strong>Cum este locația din punct de vedere al accesibilității??</strong>
     <br>
     The venue is wheelchair accessible and has accessible bathrooms. 
     <br>
