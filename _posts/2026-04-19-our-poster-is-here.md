@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Our Poster is Here!
-subtitle: 
-share-img: 
+share-img: /assets/img/POSTER.png
 tags: [info, dashcon2romania]
 ---
 
+!(DashCon2RomaniaPoster)[https://github.com/Dashcon2Romania/dashcon2romania.github.io/blob/master/assets/img/POSTER.png]
 
 ### ⋆.˚ Our poster is here! ˚.⋆
 
