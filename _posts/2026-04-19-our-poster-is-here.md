@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Our Poster is Here!
-share-img: /assets/img/POSTER.png
+thumbnail-img: /assets/img/thumbnailposter.png
+share-img: /assets/img/shareposter.pngg
 tags: [info, dashcon2romania]
 ---
 
-![DashCon2RomaniaPoster](https://github.com/Dashcon2Romania/dashcon2romania.github.io/blob/master/assets/img/POSTER.png)
+![DashCon2RomaniaPoster](https://64.media.tumblr.com/ef003e77b1509fd608ba0e1d0acda51f/d92a9b1bead061ca-de/s2048x3072/2a06a020f92d9a9067741f249aea99d0c530f3cd.pnj)
 
 ### ⋆.˚ Our poster is here! ˚.⋆
 
