@@ -53,6 +53,15 @@ subtitle: Some extra info
      Yes. We care a lot about the safety and comfort of our attendees so we will do our best to ensure a safe convention experience!
      <br>
       <br>
+    <strong>How is the location in terms of accessibility?</strong>
+     <br>
+     The venue is wheelchair accessible and has accessible bathrooms. 
+     <br>
+     While we're working within the constraints of our venue space and budget, we want to make sure our event is a safe and welcoming space for everyone. 
+      <br>
+      Please let us know if you have any suggestions for us through <a href="https://docs.google.com/forms/d/e/1FAIpQLSccTfxrn0Dy4Y8Kxj_Jn_ifccds1Q-XlN3_ySQspgOX-hJ9UQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkXpxzXvKmPbXxoAWzxWZt6K192Id8DpEqUsoEzYBYpdQYmlHZACOmva1noQ_aem_0DOuLImcaJtybbMWWE9cuQ">this form</a>. Thank you!
+     <br>
+      <br>
      </p>
      <p style="text-align:center;">
      <h3>
@@ -113,6 +122,15 @@ subtitle: Some extra info
      Da. Punem foarte mult accentul pe siguranța și comfortul participanților, așa că o să facem tot ce putem să aveți parte de o experiență sigură!
     <br>
     <br>
+    <strong>How is the location in terms of accessibility?</strong>
+    <br>
+    The venue is wheelchair accessible and has accessible bathrooms. 
+    <br>
+    Locația este accesibilă persoanelor în scaun cu rotile și beneficiază de o toaletă accesibilă. Deși lucrăm în limitele spațiului și ale bugetului, vrem să ne asigurăm că evenimentul nostru este un spațiu sigur și primitor pentru toată lumea.
+    <br>
+    Dacă aveți sugestii, nu ezitați să ne scrieți prin completarea <a href="https://docs.google.com/forms/d/e/1FAIpQLSccTfxrn0Dy4Y8Kxj_Jn_ifccds1Q-XlN3_ySQspgOX-hJ9UQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkXpxzXvKmPbXxoAWzxWZt6K192Id8DpEqUsoEzYBYpdQYmlHZACOmva1noQ_aem_0DOuLImcaJtybbMWWE9cuQ">acestui formular</a>.
+     <br>
+      <br>
    </p>
    <p style="text-align:center;">
     <h3>
