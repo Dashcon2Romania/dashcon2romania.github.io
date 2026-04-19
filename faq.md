@@ -55,7 +55,7 @@ subtitle: Some extra info
       <br>
     <strong>How is the location in terms of accessibility?</strong>
      <br>
-     The venue is wheelchair accessible and has accessible bathrooms. 
+     The venue is wheelchair accessible and has an accessible bathroom. 
      <br>
      While we're working within the constraints of our venue space and budget, we want to make sure our event is a safe and welcoming space for everyone. 
       <br>
