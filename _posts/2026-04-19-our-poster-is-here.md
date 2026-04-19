@@ -5,7 +5,7 @@ share-img: /assets/img/POSTER.png
 tags: [info, dashcon2romania]
 ---
 
-!(DashCon2RomaniaPoster)[https://github.com/Dashcon2Romania/dashcon2romania.github.io/blob/master/assets/img/POSTER.png]
+![DashCon2RomaniaPoster](https://github.com/Dashcon2Romania/dashcon2romania.github.io/blob/master/assets/img/POSTER.png)
 
 ### ⋆.˚ Our poster is here! ˚.⋆
 
