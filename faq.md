@@ -122,13 +122,13 @@ subtitle: Some extra info
      Da. Punem foarte mult accentul pe siguranța și comfortul participanților, așa că o să facem tot ce putem să aveți parte de o experiență sigură!
     <br>
     <br>
-    <strong>Cum este locația din punct de vedere al accesibilității??</strong>
+    <strong>Cum este locația din punct de vedere al accesibilității?</strong>
     <br>
     The venue is wheelchair accessible and has accessible bathrooms. 
     <br>
     Locația este accesibilă persoanelor în scaun cu rotile și beneficiază de o toaletă accesibilă. Deși lucrăm în limitele spațiului și ale bugetului, vrem să ne asigurăm că evenimentul nostru este un spațiu sigur și primitor pentru toată lumea.
     <br>
-    Dacă aveți sugestii, nu ezitați să ne scrieți prin completarea <a href="https://docs.google.com/forms/d/e/1FAIpQLSccTfxrn0Dy4Y8Kxj_Jn_ifccds1Q-XlN3_ySQspgOX-hJ9UQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkXpxzXvKmPbXxoAWzxWZt6K192Id8DpEqUsoEzYBYpdQYmlHZACOmva1noQ_aem_0DOuLImcaJtybbMWWE9cuQ">acestui formular</a>.
+    Dacă aveți sugestii, nu ezitați să ne scrieți prin completarea <a href="https://docs.google.com/forms/d/e/1FAIpQLSccTfxrn0Dy4Y8Kxj_Jn_ifccds1Q-XlN3_ySQspgOX-hJ9UQ/viewform?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnkXpxzXvKmPbXxoAWzxWZt6K192Id8DpEqUsoEzYBYpdQYmlHZACOmva1noQ_aem_0DOuLImcaJtybbMWWE9cuQ">acestui formular</a>. Mulțumesc!
      <br>
       <br>
    </p>
