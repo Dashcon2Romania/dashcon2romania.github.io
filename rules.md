@@ -26,7 +26,7 @@ subtitle: Reguli
   - intentionally intrerrupting the performers on stage.
 
 ‎
-- We have ZERO tolerance for any kind of harrassment towards hotel staff, volunteers, atendees, the organization team or anybody else.
+- We have ZERO tolerance for any kind of harrassment towards event hall staff, volunteers, atendees, the organization team or anybody else.
 
 
 Harrassment can mean, but is not limited to:
@@ -71,7 +71,7 @@ _Thank you!_
   - întreruperea oamenilor care sunt pe scenă în mod intenționat.
 
 ‎
-- Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului hotelului, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
+- Avem ZERO toleranță pentru orice formă de hârțuire sau jignire adresată personalului sălii de evenimente, a voluntarilor, a altor participanți, a echipei de organizare sau oricârei alte persoane.
 
 
 Hărțuire poate însemna, dar nu este limitată doar la:
