@@ -20,12 +20,13 @@ author: Arlekinni SRL
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
   More Info:
-    - Rules: "rules"
+    - About Us: "aboutus"
     - FAQ: "faq"
     - Planning your trip: "plan"
     - Getting involved: "gettinginvolved"
+  Rules: 
+    - General Rules: "rules"
   Meet the Clowns: "clowns"
   Socials:
     - Tumblr: "https://dashcon-2-romania.tumblr.com/"
