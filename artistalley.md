@@ -75,9 +75,9 @@ Deoarece lucrăm cu un spațiu limitat, am decis să rezervăm 11 locuri pentru 
 ---
 Pentru colaborare, avem două opțiuni:
 
-- Dacă ai PFA sau firmă (SRL), costul pentru închirierea mesei este de 100 lei, iar tot profitul va rămâne la ține.
+- Dacă ai PFA sau firmă (SRL), costul pentru închirierea mesei este de 100 lei, iar tot profitul va rămâne la tine.
 
-- Dacă nu ai PFA sau firmă, putem face un contract de comodat, iar merch-ul tău va fi vândut pe bonul nostru, la un preț mai mare decât cel de cost, pentru că tu să poți face profit, iar noi să acoperim taxele fiscale. În acest caz, nu mai trebuie să plătești pentru masă.
+- Dacă nu ai PFA sau firmă, putem face un contract de consignație, iar merch-ul tău va fi vândut pe bonul nostru, la un preț mai mare decât cel de cost, pentru că tu să poți face profit, iar noi să acoperim taxele fiscale. În acest caz, nu mai trebuie să plătești pentru masă.
 
 ---
 
