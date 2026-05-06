@@ -22,6 +22,7 @@ For collaboration, we have two options:
 - If you are self-employed or own a company through which you will handle the sales, the cost for renting a table is 100 RON, and all the profit will remain yours.
 
 - If not, we can make a collaboration contract and your merch will be sold on our receipt, at a higher price, so that you can make a profit and we can also cover the paperwork taxes. In this case, you no longer have to pay for the table.
+
 ---
 
 All artists at the Artist Alley will benefit from:
@@ -77,6 +78,7 @@ Pentru colaborare, avem două opțiuni:
 - Dacă ai PFA sau firmă (SRL), costul pentru închirierea mesei este de 100 lei, iar tot profitul va rămâne la ține.
 
 - Dacă nu ai PFA sau firmă, putem face un contract de comodat, iar merch-ul tău va fi vândut pe bonul nostru, la un preț mai mare decât cel de cost, pentru că tu să poți face profit, iar noi să acoperim taxele fiscale. În acest caz, nu mai trebuie să plătești pentru masă.
+
 ---
 
 Toți artiștii de la Artist Alley vor beneficia de:
