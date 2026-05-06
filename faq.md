@@ -16,7 +16,7 @@ subtitle: Some extra info
      <p style="text-align:center;">
      <strong>First of all...Is this real?</strong>
      <br>
-     Yep! This is totally real and it will happen on the 21st of November this year! <em>Stay tuned for more details soon!</em>
+     Yep! This is totally real and it will happen on the <em>21st of November 2026, at Terra Events Hall, in Bucharest, Romania.</em>
      <br>
       <br>
      <strong>Is this the same team behind DashCon 2?</strong>
@@ -83,7 +83,7 @@ subtitle: Some extra info
    <p style="text-align:center;">
     <strong>Chiar faceți o convenție?</strong>
     <br>
-     Da! Convenția este reală și se va ține pe 21 Noiembrie anul acesta! <em>Mai multe detalii în curând!</em>
+     Da! Convenția este reală și se va ține pe <em>21 Noiembrie 2026, la Terra Events Hall, în București, România.</em>
     <br>
      <br>
     <strong>
