@@ -47,6 +47,6 @@ Biletele Early Bird sunt live acum! Ia-ți propriul bilet [aici](https://www.iab
 
 Thank you so much to Terra Events for hosting us! Please check them out at their socials below:
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png"><img src="https://www.instagram.com/terra.events/" alt="InstagramTerraEvents" style="width:42px;height:42px;"></a>
+<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="width:42px;height:42px;"></a>
 <a href="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png"><img src="https://www.facebook.com/TERRAEventsHall/" alt="FacebookTerraEvents" style="width:42px;height:42px;"></a>
 <a href="https://www.terraevents.ro/wp-content/themes/terra/img/terra_logo.png"><img src="https://www.terraevents.ro/" alt="SiteofTerraEvents" style="width:42px;height:42px;"></a>
