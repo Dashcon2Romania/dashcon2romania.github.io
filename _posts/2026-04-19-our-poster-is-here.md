@@ -6,6 +6,10 @@ share-img: /assets/img/shareposter.pngg
 tags: [info, dashcon2romania]
 ---
 
+### Yippee!!
+
+---
+
 ![DashCon2RomaniaPoster](https://64.media.tumblr.com/ef003e77b1509fd608ba0e1d0acda51f/d92a9b1bead061ca-de/s2048x3072/2a06a020f92d9a9067741f249aea99d0c530f3cd.pnj)
 
 ### ⋆.˚ Our poster is here! ˚.⋆
