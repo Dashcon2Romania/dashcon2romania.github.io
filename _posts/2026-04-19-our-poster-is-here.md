@@ -39,4 +39,6 @@ art by [**Alice/Elias**](https://www.instagram.com/alice_ascher/)
 
 logo and text design by [**SEBi☆FRUiTStAR**](https://www.instagram.com/sebi.fruitstar/)
 
+editing by [**Fish**](https://www.instagram.com/crish_the_fish/)
+
 thanks for the location to [**Terra Events Hall**](https://www.facebook.com/TERRAEventsHall/)!
