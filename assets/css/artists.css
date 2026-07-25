@@ -1,7 +1,20 @@
 #right {
   vertical-align: top
+  margin-top: 25px;
+  margin-right: 45px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  padding: 1;
+  float: left;
+  shape-outside: ellipse(38px 40px at 45% 50%);
 }
 
 #left {
   vertical-align: top
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
