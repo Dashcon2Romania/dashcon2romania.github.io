@@ -1,11 +1,3 @@
-div.container div.column-cq {
-flex: 1;
-container-type: inline-size;
+#right {
+  vertical-align: bottom
 }
-
-@container (max-width: 500px) {
-div.container div.column-cq { 
-img.l-img {
-display:block;
-float:none;margin :0 auto}
-}}
