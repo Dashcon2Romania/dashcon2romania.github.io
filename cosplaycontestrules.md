@@ -95,11 +95,12 @@ Judging criteria will be split as follows:
 ---
 <div id="awards">
 <h3>Awards</h3>
+</div>
 - Best Overall
 - Best Costume
 - Best Performance
 - Best Makeup
-</div>
+
 
 ---
 
@@ -195,8 +196,9 @@ Criteriile de jurizare vor fi împărțite după:
 ---
 <div id="premii">
 <h3>Premii</h3>
+</div>
 - Best Overall
 - Best Costume
 - Best Performance
 - Best Makeup
-</div>
+
