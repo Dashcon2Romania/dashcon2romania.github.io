@@ -6,7 +6,7 @@ subtitle: Reguli Concurs Cosplay
 <link rel="stylesheet" href="clownstyle.css">
 
 ## EN
-<a href="#jump_to">Jump to Romanian</a>
+<a href="#jump_to"> >Sari la limba română< </a>
 
 ### Rules structure:
 
