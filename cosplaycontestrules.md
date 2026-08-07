@@ -20,6 +20,7 @@ subtitle: Reguli Concurs Cosplay
 <div id="geninfo">
 <h3>General Information</h3>
 </div>
+
 - There will be 20 spots from which 13 are for handmade costumes and 7 for bought costumes.
 
 - Bought costumes are only eligible for the Best Performance or Best Makeup awards.
