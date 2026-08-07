@@ -39,6 +39,7 @@ subtitle: Reguli Concurs Cosplay
 <div id="req">
 <h3>Requirements for sign-up</h3>
 </div>
+
 - You must own a DashCon 2: Romania ticket.
 
 - You will have to give us your character’s name, the media they belong to and reference images used for the cosplay. (Fanart designs are allowed as long as you still provide reference pictures and credit the artist. Original Characters will not be allowed.)
@@ -53,6 +54,7 @@ subtitle: Reguli Concurs Cosplay
 <div id="rules">
 <h3>Contest Rules</h3>
 </div>
+
 - In case of technical issues with your video/audio files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video/audio.
 
 - For the handmade costumes, you will have to provide 8 additional images of the process, at least a week in advance of the event.
@@ -152,6 +154,7 @@ Judging criteria will be split as follows:
 <div id="geninforo">
 <h3>Informații generale</h3>
 </div>
+
 - Vor fi 20 de locuri, dintre care 13 sunt pentru costume lucrate manual și 7 pentru costume cumpărate.
 
 - Costumele cumpărate sunt eligibile doar pentru premiile de Best Performance sau Best Makeup.
@@ -170,6 +173,7 @@ Judging criteria will be split as follows:
 <div id="cer">
 <h3>Cerințe pentru înscriere</h3>
 </div>
+
 - Trebuie să aveți bilet la DashCon 2: România.
 
 - Va trebui să ne oferiți numele personajului , serialul/jocul/media din care aparține și imagini de referință folosite pentru cosplay. (Design-urile Fanart sunt permise atâta timp cât oferiți imagini de referință și menționați artistul. Personajele originale nu vor fi permise.)
@@ -184,6 +188,7 @@ Judging criteria will be split as follows:
 <div id="reguli">
 <h3>Reguli concurs</h3>
 </div>
+
 - În cazul în care apar probleme tehnice cu fișierele video/audio, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul/audio-ul.
 
 - Pentru costumele lucrate manual, va trebui să oferiți 8 imagini suplimentare ale procesului, data limită fiind cu cel puțin o săptămână înainte de eveniment.
