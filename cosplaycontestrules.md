@@ -234,7 +234,7 @@ Judging criteria will be split as follows:
 
 - Concurenții nu pot arunca nimic de pe scenă sau în mulțime.
 
-- Nu sunt permise cascadorii periculoase, cum ar fi tumbele, săriturile peste obiecte sau săriturile de pe scenă.
+- Nu sunt permise cascadoriile periculoase, cum ar fi tumbele, săriturile peste obiecte sau săriturile de pe scenă.
 
 - Oricine încalcă aceste reguli va fi descalificat din competiție.
 
@@ -265,7 +265,7 @@ Criteriile de jurizare vor fi împărțite după:
 - **Prezența scenică** – Expresii faciale, caracterizare personaj, feeling
 - **Tech** – Sunt videoclipul și sunetul concurentului bine încorporate? Contribuie la performance?
 - **Creativitate** – A avut a interpretare unică sau originală?
-- **Continuitate** – Cum curge momentul? Pot oamenii să il înțeleagă cu ușurință?
+- **Continuitate** – Cum curge momentul? Pot oamenii să îl înțeleagă cu ușurință?
 
 ---
 <div id="premii">
