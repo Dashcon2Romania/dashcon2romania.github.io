@@ -30,7 +30,7 @@ subtitle: Reguli Concurs Cosplay
 
 ---
 <div id="req">
-### Requirements for sign-up</h3>
+<h3>Requirements for sign-up</h3>
 </div>
 - You must own a DashCon 2: Romania ticket.
 - You will have to give us your character’s name, the media they belong to and reference images used for the cosplay. (Fanart designs are allowed as long as you still provide reference pictures and credit the artist. Original Characters will not be allowed.)
@@ -104,7 +104,7 @@ Judging criteria will be split as follows:
 ---
 
 <div id="jump_to">
-## RO
+<h2>RO</h2>
 </div>
 
 ### Structura regulilor:
