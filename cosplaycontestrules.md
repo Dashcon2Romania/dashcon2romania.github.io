@@ -6,115 +6,197 @@ subtitle: Reguli Concurs Cosplay
 <link rel="stylesheet" href="clownstyle.css">
 
 ## EN
-<h3 justify-content: flex-end;>
-  <a href="#jump_to">Jump to Romanian</a>
-</h3>
+<a href="#jump_to">Jump to Romanian</a>
 
+### Rules structure:
 
-
-As pillars of fandom culture, we welcome artists to showcase and sell their amazing works and attendees to buy and support the local art scene for a healthy fandom ecosystem!
-
-### How are Artist Alley participants selected?
-
-Since we're working with a limited space, we have decided on 11 spots for artists for our first edition. Out of those 11, we have personally sent invitations to 6 artists that we know and love and the remaining 5 spots are up for grabs!
-
-
-**Applications are open from May 6th to May 26th (inclusive). After the deadline, we'll get in contact with the selected artists in the following week.**
+- <a href="#geninfo">General Information</a>
+- <a href="#req">Requirements for sign-up</a>
+- <a href="#rules">Contest Rules</a>
+- <a href="#judge">Judging Criteria</a>
+- <a href="#awards">Awards</a>
 
 ---
-For collaboration, we have two options:
+<div id="geninfo">
+### General Information
+</div>
+- There will be 20 spots from which 13 are for handmade costumes and 7 for bought costumes.
+- Bought costumes are only eligible for the Best Performance or Best Makeup awards.
+- Handmade costumes are eligible for all awards.
+- There will be a separate application form for each category (Hand-made or bought). Contest spots will fill on a first come, first served basis.
+- You must own a DashCon 2: Romania ticket.
+- Performances cannot exceed 1.5 minutes (90 seconds).
+- Contest is open for ages 16 and up. Participants under 18 will have to provide a signed parent consent form.
 
-- If you are self-employed or own a company through which you will handle the sales, the cost for renting a table is 100 RON, and all the profit will remain yours.
+---
+<div id="req">
+### Requirements for sign-up
+</div>
+- You must own a DashCon 2: Romania ticket.
+- You will have to give us your character’s name, the media they belong to and reference images used for the cosplay. (Fanart designs are allowed as long as you still provide reference pictures and credit the artist. Original Characters will not be allowed.)
+- You will be required to submit a minimum of two (2) progress photos of the costume at any stage of the construction. This does not count towards any craftsmanship judging; it is simply to show that work has begun.
+- You will be required to submit a draft script/outline of the performance that is planned.
+- Contestants must submit an image + audio or a video that will accompany the performance. The video and the image that will be shown on the screen behind them during their performance. If you send the link to a video that extends the performance time, the staff won’t be in charge of editing it.
 
-- If not, we can make a collaboration contract and your merch will be sold on our receipt, at a higher price, so that you can make a profit and we can also cover the paperwork taxes. In this case, you no longer have to pay for the table.
+---
+<div id="rules">
+### Contest Rules
+</div>
+- In case of technical issues with your video/audio files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video/audio.
+- For the handmade costumes, you will have to provide 8 additional images of the process, at least a week in advance of the event.
+- Contestants must arrive 10 minutes before their prejudging time and have with them all the elements of the costume on them (not including stage props).
+- Performances cannot exceed 1.5 minutes (90 seconds).
+- Setup time for props: max. 30 seconds.
+- MC introductions will not count towards the performance or setup time.
+- Each applicant may only appear on stage once and submit one (1) entry. Stage ninjas may support multiple entries.
+- Costumes in the hand-made category have to be at least 80% done by the cosplayer. If the costume is not (fully) made by the cosplayer, it must be specified.
+- If the cosplay is bought, you may still participate, but will only be eligible for the following awards: Best Performance, Best Makeup.
+- The use of generative AI is strictly prohibited. Entries discovered to have used generative AI in any of their entry assets (music, voice, text, image, video, etc.) will be disqualified.
+- Costumes cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
+- The performance cannot contain obscene, offensive, racist, or sexual gestures and actions.
+- No excessive profanity allowed on stage. This is an all-ages event.
+- Props must be made out of safe, light materials such as foam, cardboard, plastic, etc.
+- No real weapons allowed on stage. This includes but is not limited to: blades, needles, guns (real or BB), heavy wood or metal bats or sticks (unless they’re a mobility aid).
+- Props will be subject to inspection prior to the contest. We reserve the final say on if something is allowed on stage or not. If you are not sure if your prop breaks any rules, you can message us for clarification.
+- Costumes must fit through a standard doorway and cannot impede traffic or block walkways. If your costume is bulky, obscures your vision, or has big extensions (e.g. tails or wings), you should have a designated “handler” to help you navigate the event.
+- Everything brought onto the stage during a walk-on must be removed at the end of the time limit.
+- Messy or dangerous props including confetti, glitter, flower petals, flashing lights, fire, smoke, and liquids are not allowed.
+- Contestants may not throw anything off the stage or into the crowd.
+- No dangerous stunts such as flips, jumping over things, or leaping off the stage are allowed.
+- Anyone who violates these rules will be disqualified from the competition.
 
 ---
 
-All artists at the Artist Alley will benefit from:
-- free entry to the event for themselves and a helper (if needed)
-- a table and a chair + an extra chair for the helper
-- an official artist lanyard + one for the helper
-- social media posts with tag, share, spotlight and credits on our site.
+_**Limitations of Liability:** DashCon 2: Romania is not responsible for any injury or damage to persons or property which may be caused, directly or indirectly, in whole or in part, from entrant’s participation in the contest._
 
-Guest artists benefit from priority seating for Artist Alley but participation costs are the same.
+---
+<div id="judge">
+### Judging Criteria
+</div>
+Judging criteria will be split as follows:
+- Craftsmanship (including costume,wig styling,prop making and makeup)
+- Performance
 
+**NOTE:** Stage props will not count towards the final score.
 
+**Craftsmanship will take into consideration…**
+- Design Difficulty – How complicated is this cosplay?
+- Techniques & Creativity – What techniques were used? How did the contestant adapt to unexpected challenges?
+- Execution – How well did the contestant put together the costume/prop?
+- Continuity – Is the quality the same throughout the cosplay?
+- Resemblance - How accurate is the cosplay to the provided character reference?
 
-## RULES FOR ARTISTS
+**Performance will take into consideration…**
+- Stage Presence – Facial, characterization, feeling
+- Tech – Is the contestant’s video & audio well incorporated? Does it add to the performance?
+- Creativity – Did the performance have any unique or original ideas?
+- Continuity – Does the performance flow? Can people easily understand it?
 
-- Applicants must be 18 years or older.
-- One artist may only apply for one table.
-- Any and all set-ups or displays must not interfere with neighboring tables or pose a hazard.
-- All the art sold at the table must be the work of the artist who reserved the table. 
-- No traced or stolen art will be allowed.
-- **No AI works will be allowed.**
-- The subject matter of the work must be compliant with our convention rules, i.e., must be suited for all ages of attendees and be respectful towards all races, ethnicities, sexual orientations, gender identities or religious beliefs.
-- We will not allow the display and sale of works promoting hate speech, depicting sexualization of minors or explicit violence.
-
-- The following materials are not allowed to be sold:
-  - official merch
-  - consumables such as food and drink, beauty products or soaps.
-  - items that can cause harm such as blades, explosives or other types of weapons.
-
-
-_All table cancellations must be requested no later than a month before the date of the event._
-
-
-
-Thank you and we hope you'll have a wonderful time either as an atendee or as an artist!
+---
+<div id="awards">
+### Awards
+- Best Overall
+- Best Costume
+- Best Performance
+- Best Makeup
+</div>
 
 ---
 
 <div id="jump_to">
 ## RO
 </div>
-Ca piloni ai culturii fandom, invităm artiștii să își prezinte și să își vândă lucrările la eveniment și pe participanți să cumpere și să susțină scena artistică locală pentru un ecosistem fandom sănătos!
 
-### Cum sunt selectați participanții la Aleea Artiștilor?
+### Structura regulilor:
 
-Deoarece lucrăm cu un spațiu limitat, am decis să rezervăm 11 locuri pentru artiști pentru prima noastră ediție. Dintre acești 11, am trimis personal invitații la 6 artiști pe care îi cunoaștem și îi iubim, iar restul de 5 locuri sunt disponibile pentru oricine!
-
-
-**Înscrierile sunt deschise între 6 și 26 mai (inclusiv). După termenul limită, vom contacta artiștii selectați în săptămâna următoare.**
-
----
-Pentru colaborare, avem două opțiuni:
-
-- Dacă ai PFA sau firmă (SRL), costul pentru închirierea mesei este de 100 lei, iar tot profitul va rămâne la tine.
-
-- Dacă nu ai PFA sau firmă, putem face un contract de consignație, iar merch-ul tău va fi vândut pe bonul nostru, la un preț mai mare decât cel de cost, pentru că tu să poți face profit, iar noi să acoperim taxele fiscale. În acest caz, nu mai trebuie să plătești pentru masă.
+- Informații generale
+- Cerințe pentru înscriere
+- Reguli concurs
+- Criterii de jurizare
+- Premii
 
 ---
+<div id="jump_to">
+### Informații generale
+</div>
+- Vor fi 20 de locuri, dintre care 13 sunt pentru costume lucrate manual și 7 pentru costume cumpărate.
+- Costumele cumpărate sunt eligibile doar pentru premiile de Best Performance sau Best Makeup.
+- Costumele hand-made sunt eligibile pentru toate premiile.
+- Va exista un formular de înscriere separat pentru fiecare categorie (costume hand-made sau cumpărate). Locurile în concurs se vor ocupa in baza “primul venit, primul servit”.
+- Pentru participare, trebuie să aveți un bilet la DashCon 2: România.
+- Numerele nu pot depăși 1,5 minute (90 de secunde).
+- Concursul este deschis persoanelor cu vârsta minimă de 16 ani sau peste. Participanții sub 18 ani vor trebui să completeze un formular de consimțământ semnat de părinți.
 
-Toți artiștii de la Artist Alley vor beneficia de:
-- intrare gratuită la eveniment pentru ei și un ajutor la stand (dacă este nevoie)
-- o masă și un scaun + un scaun in plus pentru ajutor
-- un lanyard oficial pentru artist + unul pentru ajutor
-- postări pe social media cu tag, share, spotlight și credite pe site-ul nostru.
+---
+<div id="a">
+### Cerințe pentru înscriere
+</div>
+- Trebuie să aveți bilet la DashCon 2: România.
+- Va trebui să ne oferiți numele personajului , serialul/jocul/media din care aparține și imagini de referință folosite pentru cosplay. (Design-urile Fanart sunt permise atâta timp cât oferiți imagini de referință și menționați artistul. Personajele originale nu vor fi permise.)
+- Vi se va cere să trimiteți minimum două (2) fotografii de progres ale costumului în orice etapă a construcției. Acestea nu contează pentru punctajul la jurizare ; sunt pur și simplu pentru a arăta că e început.
+- Vi se va cere să trimiteți o scurtă descriere pentru performance-ul planificat.
+- Concurenții trebuie să trimită o imagine + audio sau un videoclip care va însoți performance-ul. Videoclipul și/sau imaginea vor fi afișate pe ecranul din spatele scenei în timpul performance-ului. Dacă trimiteți linkul către un videoclip mai lung de durata spectacolului, personalul nu va fi responsabil de editarea acestuia.
 
-Artiștii invitați beneficiază de locuri prioritare pentru Aleea Artiștilor, dar costurile de participare sunt aceleași.
+---
+<div id="a">
+### Reguli concurs
+</div>
+- În cazul în care apar probleme tehnice cu fișierele video/audio, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul/audio-ul.
+- Pentru costumele lucrate manual, va trebui să oferiți 8 imagini suplimentare ale procesului, data limită fiind cu cel puțin o săptămână înainte de eveniment.
+- Concurenții trebuie să sosească cu 10 minute înainte de ora stabilită pentru pre-judging și să aibă pe ei toate elementele costumului (fără recuzita de scenă).
+- Momentele pe scenă nu pot depăși 1,5 minute (90 de secunde).
+- Timpul de montare a recuzitei: max. 30 de secunde.
+- Prezentările nu vor fi luate în considerare la timpul de montare sau de performance.
+- Fiecare participant poate apărea pe scenă o singură dată și poate trimite doar o (1) înscriere.
+- Stage Ninjas pot susține mai multe înscrieri.
+- Costumele din categoria hand-made trebuie să fie realizate în proporție de cel puțin 80% de către cosplayer. Dacă costumul nu este realizat (complet) de către cosplayer, acest lucru trebuie specificat.
+- Dacă cosplay-ul este cumpărat, poți participa, dar vei fi eligibil doar pentru următoarele premii: Best Performance, Best Makeup.
+- Utilizarea AI este strict interzisă. Înscrierile care sunt descoperite că au folosit generative AI în oricare dintre materialele lor (muzică, voce, text, imagine, video etc.) vor fi descalificate.
+- Costumele nu pot fi obscene, jignitoare și nici nu pot susține vreo formă de ură sau grup de ură. Nuditatea nu este permisă.
+- Spectacolul nu poate conține gesturi și acțiuni obscene, jignitoare, rasiste sau sexuale.
+- Nu este permisă profanitatea excesivă pe scenă. Acesta este un eveniment pentru toate vârstele.
+- Prop-urile trebuie să fie fabricate din materiale sigure și ușoare, cum ar fi spumă, carton, plastic etc.
+- Nu sunt permise arme reale pe scenă. Acestea includ, dar nu se limitează la: lame, ace, pistoale (reale sau cu bile), bâte sau bețe grele din lemn sau metal (cu excepția cazului în care sunt un ajutor pentru mobilitate).
+- Prop-urile vor fi supuse inspecției înainte de concurs. Ne rezervăm ultimul cuvânt cu privire la dacă ceva este permis sau nu pe scenă. Dacă nu sunteți sigur dacă recuzita dvs. încalcă vreo regulă, ne puteți trimite un mesaj pentru clarificări.
+- Costumele trebuie să încapă printr-o ușă standard și nu pot împiedica traficul sau bloca zonele de acces. Dacă costumul este voluminos, vă obstrucționează vederea sau are extensii mari (de exemplu, cozi sau aripi), ar trebui să aveți un ajutor desemnat care să vă ajute să navigați prin convenţie.
+- Orice este adus pe scenă în timpul unei prezentări trebuie îndepărtat la sfârșitul timpului limită.
+- Recuzita dezordonată sau periculoasă, de exemplu confetti, sclipici, petale de flori, lumini intermitente, foc, fum și lichide, nu este permisă.
+- Concurenții nu pot arunca nimic de pe scenă sau în mulțime.
+- Nu sunt permise cascadorii periculoase, cum ar fi tumbele, săriturile peste obiecte sau săriturile de pe scenă.
+- Oricine încalcă aceste reguli va fi descalificat din competiție.
 
+---
 
+_**Limitări de răspundere:** DashCon 2: România nu este responsabil pentru nicio vătămare corporală sau daună adusă persoanelor sau bunurilor care poate fi cauzată, direct sau indirect, în totalitate sau parțial, de participarea la concurs._
 
-## REGULI PENTRU ARTIȘTI:
+---
+<div id="a">
+### Criterii de jurizare
+</div>
+Criteriile de jurizare vor fi împărțite după:
+- Craftsmanship (costume, stilizarea perucilor, props și machiaj)
+- Performance
 
-- Artiștii trebuie să aibă minim 18 ani.
-- Un artist poate aplica doar pentru o singură masă.
-- Orice amenajare sau expunere nu trebuie să interfereze cu mesele vecine sau să reprezinte un pericol.
-- Toate lucrările vândute la masă trebuie să fie opera artistului care a rezervat masa.
-- Nu va fi permisă nicio operă de artă copiată sau furată.
-- **Nu vor fi permise lucrări realizate prin intermediul Inteligenței Artificiale.**
-- Subiectul lucrării trebuie să respecte regulile evenimentului noastru, adică: trebuie să poată fi vizionat de către participanți de toate vârstele și să nu aducă jignire față de alți oameni, indiferent de rasă, etnie, orientare sexuală, identitate de gen sau credințe religioase.
-- Nu vom permite expunerea și vânzarea de lucrări care promovează un discurs instigator la ură, care prezintă sexualizarea minorilor sau violență excesivă.
+**ATENȚIE:** Recuzita de scenă nu va fi luată în considerare la scorul final.
 
-- Următoarele materiale nu sunt permise pentru vânzare:
-  - produse oficiale
-  - consumabile precum alimente și băuturi, produse de înfrumusețare sau săpunuri.
-  - obiecte care pot provoca daune, cum ar fi lame, explozibili sau alte tipuri de arme.
+**Criteriul de Craftsmanship va lua în considerare…**
+- Dificultatea designului – Cât de complicat este acest cosplay?
+- Tehnici și creativitate – Ce tehnici au fost folosite? Cum s-a adaptat concurentul la provocări neașteptate?
+- Execuție – Cât de bine a realizat concurentul costumul/prop-urile?
+- Continuitate – Este calitatea aceeași pentru tot cosplay-ul?
+- Asemănare - Cât de asemanator este cosplay-ul cu referința personajului?
 
+**Criteriul de Performance va lua în considerare…**
+- Prezența scenică – Expresii faciale, caracterizare personaj, feeling
+- Tech – Sunt videoclipul și sunetul concurentului bine încorporate? Contribuie la performance?
+- Creativitate – A avut a interpretare unică sau originală?
+- Continuitate – Cum curge momentul? Pot oamenii să il înțeleagă cu ușurință?
 
-_Anularea rezervării trebuie solicitată cu cel puțin o lună înainte de data evenimentului._
-
-
-
-Mulțumesc și sper că vei avea o experiență plăcută fie că vii ca artist sau ca participant!
+---
+<div id="a">
+### Premii
+- Best Overall
+- Best Costume
+- Best Performance
+- Best Makeup
+</div>
