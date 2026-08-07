@@ -107,7 +107,9 @@ _**Limitations of Liability:** DashCon 2: Romania is not responsible for any inj
 <div id="judge">
 <h3>Judging Criteria</h3>
 </div>
+
 Judging criteria will be split as follows:
+
 - **Craftsmanship** (including costume,wig styling,prop making and makeup)
 - **Performance**
 
@@ -130,6 +132,7 @@ Judging criteria will be split as follows:
 <div id="awards">
 <h3>Awards</h3>
 </div>
+
 - **Best Overall**
 - **Best Costume**
 - **Best Performance**
@@ -243,7 +246,9 @@ _**Limitări de răspundere:** DashCon 2: România nu este responsabil pentru ni
 <div id="jur">
 <h3>Criterii de jurizare</h3>
 </div>
+
 Criteriile de jurizare vor fi împărțite după:
+
 - **Craftsmanship** (costume, stilizarea perucilor, props și machiaj)
 - **Performance**
 
@@ -266,6 +271,7 @@ Criteriile de jurizare vor fi împărțite după:
 <div id="premii">
 <h3>Premii</h3>
 </div>
+
 - **Best Overall**
 - **Best Costume**
 - **Best Performance**
