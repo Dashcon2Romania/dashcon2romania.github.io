@@ -18,7 +18,7 @@ subtitle: Reguli Concurs Cosplay
 
 ---
 <div id="geninfo">
-<h3> General Information</h3>
+<h3>General Information</h3>
 </div>
 - There will be 20 spots from which 13 are for handmade costumes and 7 for bought costumes.
 - Bought costumes are only eligible for the Best Performance or Best Makeup awards.
@@ -30,7 +30,7 @@ subtitle: Reguli Concurs Cosplay
 
 ---
 <div id="req">
-### Requirements for sign-up
+### Requirements for sign-up</h3>
 </div>
 - You must own a DashCon 2: Romania ticket.
 - You will have to give us your character’s name, the media they belong to and reference images used for the cosplay. (Fanart designs are allowed as long as you still provide reference pictures and credit the artist. Original Characters will not be allowed.)
@@ -40,7 +40,7 @@ subtitle: Reguli Concurs Cosplay
 
 ---
 <div id="rules">
-### Contest Rules
+<h3>Contest Rules</h3>
 </div>
 - In case of technical issues with your video/audio files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video/audio.
 - For the handmade costumes, you will have to provide 8 additional images of the process, at least a week in advance of the event.
@@ -71,7 +71,7 @@ _**Limitations of Liability:** DashCon 2: Romania is not responsible for any inj
 
 ---
 <div id="judge">
-### Judging Criteria
+<h3>Judging Criteria</h3>
 </div>
 Judging criteria will be split as follows:
 - Craftsmanship (including costume,wig styling,prop making and makeup)
@@ -94,7 +94,7 @@ Judging criteria will be split as follows:
 
 ---
 <div id="awards">
-### Awards
+<h3>Awards</h3>
 - Best Overall
 - Best Costume
 - Best Performance
@@ -109,15 +109,15 @@ Judging criteria will be split as follows:
 
 ### Structura regulilor:
 
-- Informații generale
-- Cerințe pentru înscriere
-- Reguli concurs
-- Criterii de jurizare
-- Premii
+- <a href="#geninforo">Informații generale</a>
+- <a href="#cer">Cerințe pentru înscriere</a>
+- <a href="#reguli">Reguli concurs</a>
+- <a href="#jur">Criterii de jurizare</a>
+- <a href="#premii">Premii</a>
 
 ---
-<div id="jump_to">
-### Informații generale
+<div id="geninforo">
+<h3>Informații generale</h3>
 </div>
 - Vor fi 20 de locuri, dintre care 13 sunt pentru costume lucrate manual și 7 pentru costume cumpărate.
 - Costumele cumpărate sunt eligibile doar pentru premiile de Best Performance sau Best Makeup.
@@ -128,8 +128,8 @@ Judging criteria will be split as follows:
 - Concursul este deschis persoanelor cu vârsta minimă de 16 ani sau peste. Participanții sub 18 ani vor trebui să completeze un formular de consimțământ semnat de părinți.
 
 ---
-<div id="a">
-### Cerințe pentru înscriere
+<div id="cer">
+<h3>Cerințe pentru înscriere</h3>
 </div>
 - Trebuie să aveți bilet la DashCon 2: România.
 - Va trebui să ne oferiți numele personajului , serialul/jocul/media din care aparține și imagini de referință folosite pentru cosplay. (Design-urile Fanart sunt permise atâta timp cât oferiți imagini de referință și menționați artistul. Personajele originale nu vor fi permise.)
@@ -138,8 +138,8 @@ Judging criteria will be split as follows:
 - Concurenții trebuie să trimită o imagine + audio sau un videoclip care va însoți performance-ul. Videoclipul și/sau imaginea vor fi afișate pe ecranul din spatele scenei în timpul performance-ului. Dacă trimiteți linkul către un videoclip mai lung de durata spectacolului, personalul nu va fi responsabil de editarea acestuia.
 
 ---
-<div id="a">
-### Reguli concurs
+<div id="reguli">
+<h3>Reguli concurs</h3>
 </div>
 - În cazul în care apar probleme tehnice cu fișierele video/audio, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul/audio-ul.
 - Pentru costumele lucrate manual, va trebui să oferiți 8 imagini suplimentare ale procesului, data limită fiind cu cel puțin o săptămână înainte de eveniment.
@@ -170,8 +170,8 @@ Judging criteria will be split as follows:
 _**Limitări de răspundere:** DashCon 2: România nu este responsabil pentru nicio vătămare corporală sau daună adusă persoanelor sau bunurilor care poate fi cauzată, direct sau indirect, în totalitate sau parțial, de participarea la concurs._
 
 ---
-<div id="a">
-### Criterii de jurizare
+<div id="jur">
+<h3>Criterii de jurizare</h3>
 </div>
 Criteriile de jurizare vor fi împărțite după:
 - Craftsmanship (costume, stilizarea perucilor, props și machiaj)
@@ -193,8 +193,8 @@ Criteriile de jurizare vor fi împărțite după:
 - Continuitate – Cum curge momentul? Pot oamenii să il înțeleagă cu ușurință?
 
 ---
-<div id="a">
-### Premii
+<div id="premii">
+<h3>Premii</h3>
 - Best Overall
 - Best Costume
 - Best Performance
