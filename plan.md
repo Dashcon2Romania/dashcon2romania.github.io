@@ -17,7 +17,7 @@ DashCon 2: Romania will take place on **Saturday, November 21st 2026**. The even
 Our convention will be held at **Terra Events Hall** in **Bucharest, Romania**.
 
 **ADMISSION:**
-Early Bird tickets are live now! Get yours [here](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
+Standard tickets are live now! Get yours [here](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
 
 
  ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 .          　. 　 ˚　.
@@ -37,7 +37,7 @@ DashCon 2: România va avea loc pe data de **21 noiembrie 2026**. Evenimentul va
 Convenția se va ține la **Terra Events Hall** în **București, România**.
 
 **INTRARE:**
-Biletele Early Bird sunt live acum! Ia-ți propriul bilet [aici](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
+Biletele Standard sunt live acum! Ia-ți propriul bilet [aici](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
 
 
  ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 .          　. 　 ˚　.
