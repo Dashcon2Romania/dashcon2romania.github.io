@@ -33,7 +33,7 @@ subtitle: Reguli Concurs Cosplay
 
 - Performances cannot exceed 1.5 minutes (90 seconds).
 
-- Contest is open for ages 16 and up. Participants under 18 will have to provide a signed parent consent form.
+- Contest is open for ages 16 and up. Participants under 18 will have to provide a signed parental consent form.
 
 ---
 <div id="req">
