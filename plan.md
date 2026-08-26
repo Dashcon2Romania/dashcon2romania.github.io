@@ -27,7 +27,7 @@ Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/L
 
 ---
 ⠂⠁⠈🔴✦⠄⠄🟠✮ ⋆ ˚｡🟡 ⋆✦🟢｡°✩⠂🔵⠄⠂⠁✦🟣⠂⠄⠄
-## Te-ai hotărât să ni te alături în piscina cu bile! Super! Iată câteva informații despre ce urmează:
+## Deci te-ai hotărât să ni te alături în piscina cu bile! Iată câteva informații despre ce urmează:
 
 ---
 
