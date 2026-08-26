@@ -11,10 +11,10 @@ So, you've decided to join us in the ball pit! Awesome! Here's some info on what
 ---
 
 **DATE:**
-DashCon 2: Romania will take place on **Saturday, November 21st 2026**. The event will last for one day, from 10 to 20!
+DashCon 2: Romania will take place on **Saturday, November 21st 2026**. The event will last for one day, from 10:00 to 20:00!
 
 **WHERE:**
-Our convention will be held at **Terra Events Hall** in **Bucharest, Romania**.
+Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) in **Bucharest, Romania**.
 
 **ADMISSION:**
 Standard tickets are live now! Get yours [here](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
