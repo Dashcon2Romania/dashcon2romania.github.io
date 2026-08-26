@@ -5,8 +5,8 @@ subtitle: Plănuiește-ți călătoria
 ---
 
 ---
-
-So, you've decided to join us in the ball pit! Awesome! Here's some info on what to expect:
+⠂⠁⠈🔴✦⠄⠄🟠✮ ⋆ ˚｡🟡 ⋆✦🟢｡°✩⠂🔵⠄⠂⠁✦🟣⠂⠄⠄
+## So you've decided to join us in the ball pit! Here's some info on what to expect:
 
 ---
 
@@ -26,8 +26,8 @@ Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/L
 
 
 ---
-
-Te-ai hotărât să ni te alături în piscina cu bile! Super! Iată câteva informații despre ce urmează:
+⠂⠁⠈🔴✦⠄⠄🟠✮ ⋆ ˚｡🟡 ⋆✦🟢｡°✩⠂🔵⠄⠂⠁✦🟣⠂⠄⠄
+## Te-ai hotărât să ni te alături în piscina cu bile! Super! Iată câteva informații despre ce urmează:
 
 ---
 
