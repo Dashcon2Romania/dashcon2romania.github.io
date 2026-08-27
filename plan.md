@@ -94,8 +94,8 @@ I have two recommendations: / Am două recomandări:
 
 ## **ACCOMMODATION: / CAZARE:**
 
-The kind folks at [Kepler Residence](https://kepler-residence.ro/) have given us a **discount code** for convention attendees:
-## DashCon 2026
+The kind folks at [Kepler Residence](https://kepler-residence.ro/) have given us a **discount code** for convention attendees: _**DashCon 2026**_
+<br>
 Kepler Residence is only [a few minutes away](https://maps.app.goo.gl/L7MUtKBPKmxkRwvs6) from the convention hall.
 <br>
 <details markdown="1">
@@ -142,6 +142,7 @@ _Prețurile includ: TVA -11% + taxa de promovare turistică (10 RON/persoană/zi
 ---
 
 **Thank you so much to Terra Events for hosting us! Please check them out at their socials below:**
+<br>
 <br>
 **Le mulțumim celor de la Terra Events pentru găzduire! Vă rugăm să îi urmăriți pe conturile de socializare:**
 
