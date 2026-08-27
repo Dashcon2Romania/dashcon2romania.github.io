@@ -145,6 +145,6 @@ _Prețurile includ: TVA -11% + taxa de promovare turistică (10 RON/persoană/zi
 **Le mulțumim celor de la Terra Events pentru găzduire! Vă rugăm să îi urmăriți pe conturile de socializare:**
 
 
-<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="padding: 10px;width:42px;height:42px;"></a>
-<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="padding: 10px;width:42px;height:42px;"></a>
-<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="padding: 10px;width:96px;height:42px;"></a>
+<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="padding: 10px;width:52px;height:52px;"></a>
+<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="padding: 10px;width:52px;height:52px;"></a>
+<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="padding: 10px;width:106px;height:52px;"></a>
