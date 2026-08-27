@@ -14,7 +14,7 @@ subtitle: Plănuiește-ți călătoria
 - DashCon 2: Romania will take place on **Saturday, November 21st 2026**. The event will last for one day, from **10:00** to **20:00**!
 
 ## **WHERE:**
-- Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) in **Bucharest, Romania**. Public transport details below!
+- Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) in **Bucharest, Romania**. <a href="#jump_to">Public transport details below!</a>
 
 ## **ADMISSION:**
 - Standard tickets are live now! Get yours [here, through iabilet.ro](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
@@ -46,9 +46,9 @@ subtitle: Plănuiește-ți călătoria
 　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
 
 ---
-
+<div id="jump_to">
 ## **PUBLIC TRANSPORTATION: / TRANSPORT PUBLIC:**
-
+</div>
 Location on the map: / Localizare pe hartă:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22787.707739198635!2d26.081159!3d44.4441669!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events!5e0!3m2!1sen!2sro!4v1778797526509!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
