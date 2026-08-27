@@ -35,7 +35,7 @@ subtitle: Plănuiește-ți călătoria
 - DashCon 2: România va avea loc pe data de **21 noiembrie 2026**. Evenimentul va dura o zi, de la **10:00** la **20:00**!
 
 ## **UNDE:**
-- Convenția se va ține la [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) în **București, România**. Detalii despre transportul public mai jos!
+- Convenția se va ține la [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) în **București, România**. <a href="#jump_to">Detalii despre transportul public mai jos!</a>
 
 ## **INTRARE:**
 - Biletele Standard sunt live acum! Ia-ți propriul bilet [aici, prin iabilet.ro](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
@@ -145,6 +145,6 @@ _Prețurile includ: TVA -11% + taxa de promovare turistică (10 RON/persoană/zi
 **Le mulțumim celor de la Terra Events pentru găzduire! Vă rugăm să îi urmăriți pe conturile de socializare:**
 
 
-<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="padding: 10px;width:52px;height:52px;"></a>
-<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="padding: 10px;width:52px;height:52px;"></a>
-<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="padding: 10px;width:106px;height:52px;"></a>
+<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="padding: 10px;width:72px;height:72px;"></a>
+<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="padding: 10px;width:72px;height:72px;"></a>
+<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="padding: 10px;width:126px;height:72px;"></a>
