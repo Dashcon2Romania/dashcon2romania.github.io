@@ -84,7 +84,7 @@ The kind folks at [Kepler Residence](https://kepler-residence.ro/) have given us
 Kepler Residence is only [a few minutes away](https://maps.app.goo.gl/L7MUtKBPKmxkRwvs6) from the convention hall.
 
 <details markdown="1">
-<summary>**>More details about the offer here<**</summary>
+<summary><strong>> More details about the offer here <</strong></summary>
 
 ### EN
 
