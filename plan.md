@@ -47,8 +47,10 @@ subtitle: Plănuiește-ți călătoria
 
 ---
 <div id="jump_to">
-## **PUBLIC TRANSPORTATION: / TRANSPORT PUBLIC:**
 </div>
+ 
+## **PUBLIC TRANSPORTATION: / TRANSPORT PUBLIC:**
+
 Location on the map: / Localizare pe hartă:
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22787.707739198635!2d26.081159!3d44.4441669!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events!5e0!3m2!1sen!2sro!4v1778797526509!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -58,6 +60,7 @@ Location on the map: / Localizare pe hartă:
 #### EN:
 I recommend taking the **number 5 tram**.
 - Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+
 #### RO:
 Recomand **tramvaiul numărul 5**.
 - Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
@@ -70,6 +73,7 @@ I have two recommendations: / Am două recomandări:
 #### EN:
 **Subway route M1 - Pantelimon** (faster, more walking)
 - Tickets can be bought inside the subway station. The price is around €0,95.
+
 #### RO:
 **Metroul M1 - Pantelimon** (mai rapid, mai mult mers)
 -  Cartela de călătorie poate fi cumpărată în stația de metrou. Prețul este de 5 RON.
@@ -79,6 +83,7 @@ I have two recommendations: / Am două recomandări:
 #### EN:
 **Bus number 182** (slower, less walking)
 - Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+
 #### RO:
 **Autobuzul 182** (mai încet, mai puțin mers)
 - Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
