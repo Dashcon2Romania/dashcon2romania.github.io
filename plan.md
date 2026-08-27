@@ -55,24 +55,33 @@ Location on the map: / Localizare pe hartă:
 ---
 
 ### Route coming from the airport / Ruta de la aeroport
-- I recommend taking the number 5 tram. / Recomand tramvaiul numărul 5.
-- EN: Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
-- RO: Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
+#### EN:
+I recommend taking the **number 5 tram**.
+- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+#### RO:
+Recomand **tramvaiul numărul 5**.
+- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22775.88431931458!2d26.070457269109337!3d44.47446914877601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b202f8ee9bc4a1%3A0xfa0cdac8cce7ef4!2sAeroport%20Baneasa%2C%20Bucure%C8%99ti!3m2!1d44.496006!2d26.078865!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787780908910!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 
 ### Route coming from the train station / Ruta de la Gara de Nord
 I have two recommendations: / Am două recomandări:
-- Subway route M1 - Pantelimon (faster, more walking) / Metroul M1 - Pantelimon (mai rapid, mai mult mers)
-- EN: Tickets can be bought inside the subway station. The price is around €0,95.
-- RO: Cartela de călătorie poate fi cumpărată în stația de metrou. Prețul este de 5 RON.
+#### EN:
+**Subway route M1 - Pantelimon** (faster, more walking)
+- Tickets can be bought inside the subway station. The price is around €0,95.
+#### RO:
+**Metroul M1 - Pantelimon** (mai rapid, mai mult mers)
+-  Cartela de călătorie poate fi cumpărată în stația de metrou. Prețul este de 5 RON.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11391.418589932427!2d26.07693572593013!3d44.45665163720309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b201fca9df7749%3A0x7f1c3852fc0ea577!2sNorth%20Railway%20Station%20Neighborhood%2C%20Bucharest!3m2!1d44.446397499999996!2d26.075547399999998!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787785692686!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-- Bus number 182 (slower, less walking) / Autobuzul 182 (mai încet, mai puțin mers)
-- EN: Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
-- RO: Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
+#### EN:
+**Bus number 182** (slower, less walking)
+- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+#### RO:
+**Autobuzul 182** (mai încet, mai puțin mers)
+- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11391.418589932427!2d26.07693572593013!3d44.45665163720309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b201fca9df7749%3A0x7f1c3852fc0ea577!2sNorth%20Railway%20Station%20Neighborhood%2C%20Bucharest!3m2!1d44.446397499999996!2d26.075547399999998!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787785659513!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -94,6 +103,7 @@ Kepler Residence is only [a few minutes away](https://maps.app.goo.gl/L7MUtKBPKm
 - Triple/Family room (3 adults or 2 adults + 2 children)  - €139/night
 
 Payment can be done through cash, card or bank transfer.
+<br>
 _Prices include: TVA -11% + tourist tax (10 RON/person/day)_
 
 **AMENITIES:**
@@ -112,6 +122,7 @@ _Prices include: TVA -11% + tourist tax (10 RON/person/day)_
 - Cameră triple/family (3 adulți sau 2 adulți + 2 copii)  - €139/noapte
 
 Plata se poate face cash, prin card sau prin transfer bancar.
+<br>
 _Prețurile includ: TVA -11% + taxa de promovare turistică (10 RON/persoană/zi)_
 
 **FACILITĂȚI:**
@@ -124,11 +135,11 @@ _Prețurile includ: TVA -11% + taxa de promovare turistică (10 RON/persoană/zi
 </details>
 ---
 
-Thank you so much to Terra Events for hosting us! Please check them out at their socials below:
+**Thank you so much to Terra Events for hosting us! Please check them out at their socials below:**
 <br>
-Le mulțumim celor de la Terra Events pentru găzduire! Vă rugăm să îi urmăriți pe conturile de socializare:
+**Le mulțumim celor de la Terra Events pentru găzduire! Vă rugăm să îi urmăriți pe conturile de socializare:**
 
 
-<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="width:42px;height:42px;"></a>
-<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="width:42px;height:42px;"></a>
-<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="width:96px;height:42px;"></a>
+<a href="https://www.instagram.com/terra.events/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1280px-Instagram_icon.png" alt="InstagramTerraEvents" style="padding: 10px;width:42px;height:42px;"></a>
+<a href="https://www.facebook.com/TERRAEventsHall/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/1280px-Facebook_f_logo_%282021%29.svg.png" alt="FacebookTerraEvents" style="padding: 10px;width:42px;height:42px;"></a>
+<a href="https://www.terraevents.ro/"><img src="https://raw.githubusercontent.com/Dashcon2Romania/dashcon2romania.github.io/refs/heads/master/assets/img/terra_logo.png" alt="SiteofTerraEvents" style="padding: 10px;width:96px;height:42px;"></a>
