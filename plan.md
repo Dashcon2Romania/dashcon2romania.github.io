@@ -94,9 +94,11 @@ I have two recommendations: / Am două recomandări:
 
 ## **ACCOMMODATION: / CAZARE:**
 
-The kind folks at [Kepler Residence](https://kepler-residence.ro/) have given us a discount code for convention attendees: **DashCon 2026**
+The kind folks at [Kepler Residence](https://kepler-residence.ro/) have given us a discount code for convention attendees:
+#### DashCon 2026
+<br>
 Kepler Residence is only [a few minutes away](https://maps.app.goo.gl/L7MUtKBPKmxkRwvs6) from the convention hall.
-
+<br>
 <details markdown="1">
 <summary><strong>> More details about the offer here <</strong></summary>
 
