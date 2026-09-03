@@ -1,0 +1,10 @@
+site-root/_data$ ls en ro
+en:
+l10n.yml
+
+ro:
+l10n.yml
+site-root/_data$ cat en/l10n.yml
+title: "DashCon 2 Romania"
+site-root/_data$ cat ro/l10n.yml
+title: "DashCon 2 Romania"
