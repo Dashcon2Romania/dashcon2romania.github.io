@@ -21,11 +21,11 @@ author: Arlekinni SRL
 
 navbar-links:
   More Info:
-    - About Us: "aboutus"
-    - Meet the Clowns: "clowns"
-    - FAQ: "faq"
-    - Planning your trip: "plan"
-    - Getting involved: "gettinginvolved"
+    - About Us: "/moreinfo/aboutus"
+    - Meet the Clowns: "/moreinfo/clowns"
+    - FAQ: "/moreinfo/faq"
+    - Planning your trip: "/moreinfo/plan"
+    - Getting involved: "/moreinfo/gettinginvolved"
   Rules: 
     - General Rules: "/rules/rules"
     - Artist Alley Rules: "/rules/artistalley"
