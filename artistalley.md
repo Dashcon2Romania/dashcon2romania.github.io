@@ -14,7 +14,7 @@ As pillars of fandom culture, we welcome artists to showcase and sell their amaz
 Since we're working with a limited space, we have decided on 11 spots for artists for our first edition. Out of those 11, we have personally sent invitations to 6 artists that we know and love and the remaining 5 spots are up for grabs!
 
 
-**Applications are open from May 6th to May 26th (inclusive). After the deadline, we'll get in contact with the selected artists in the following week.**
+**Applications were open from May 6th to May 26th. Thank you to everyone who applied!.**
 
 ---
 For collaboration, we have two options:
@@ -70,7 +70,7 @@ Ca piloni ai culturii fandom, invităm artiștii să își prezinte și să îș
 Deoarece lucrăm cu un spațiu limitat, am decis să rezervăm 11 locuri pentru artiști pentru prima noastră ediție. Dintre acești 11, am trimis personal invitații la 6 artiști pe care îi cunoaștem și îi iubim, iar restul de 5 locuri sunt disponibile pentru oricine!
 
 
-**Înscrierile sunt deschise între 6 și 26 mai (inclusiv). După termenul limită, vom contacta artiștii selectați în săptămâna următoare.**
+**Înscrierile au fost deschise între 6 și 26 mai. Mulțumesc tuturor celor care au aplicat!**
 
 ---
 Pentru colaborare, avem două opțiuni:
