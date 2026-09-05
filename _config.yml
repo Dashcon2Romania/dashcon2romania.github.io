@@ -30,6 +30,7 @@ navbar-links:
     - General Rules: "rules"
     - Artist Alley Rules: "artistalley"
     - Cosplay Contest Rules: "cosplaycontestrules"
+    - AMV Showcase Rules: "rules/amvshowcaserules.md"
   Our Artists: "artists"
   Socials:
     - Tumblr: "https://dashcon-2-romania.tumblr.com/"
