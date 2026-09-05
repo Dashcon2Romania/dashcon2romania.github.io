@@ -164,7 +164,7 @@ Judging criteria will be split as follows:
 
 - Costumele hand-made sunt eligibile pentru toate premiile.
 
-- Va exista un formular de înscriere separat pentru fiecare categorie (costume hand-made sau cumpărate). Locurile în concurs se vor ocupa in baza “primul venit, primul servit”.
+- Va exista un formular de înscriere separat pentru fiecare categorie (costume hand-made sau cumpărate). Locurile în concurs se vor ocupa în baza “primul venit, primul servit”.
 
 - Pentru participare, trebuie să aveți un bilet la DashCon 2: România.
 
