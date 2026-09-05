@@ -27,9 +27,9 @@ navbar-links:
     - Planning your trip: "plan"
     - Getting involved: "gettinginvolved"
   Rules: 
-    - General Rules: "rules"
-    - Artist Alley Rules: "artistalley"
-    - Cosplay Contest Rules: "cosplaycontestrules"
+    - General Rules: "/rules/rules"
+    - Artist Alley Rules: "/rules/artistalley"
+    - Cosplay Contest Rules: "/rules/cosplaycontestrules"
     - AMV Showcase Rules: "/rules/amvshowcaserules"
   Our Artists: "artists"
   Socials:
