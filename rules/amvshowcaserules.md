@@ -29,6 +29,8 @@ subtitle: Reguli AMV Showcase
 
 - Our screen ratio will be 12:6 unless we have any changes. We recommend using a horizontal (landscape) layout, otherwise, your video might not display well.
 
+- Animations are allowed too!
+
 ---
 <div id="req">
 <h3>Requirements for sign-up</h3>
@@ -97,6 +99,8 @@ subtitle: Reguli AMV Showcase
 - Fiecare poate avea maxim 3 înscrieri.
 
 - Raportul de aspect al ecranului va fi de 12:6, cu excepția cazului în care vom face modificări. Recomandăm să folosiți un aspect orizontal (peisaj), altfel este posibil ca videoclipul să nu se afișeze bine.
+
+- Animațiile sunt permise!
 
 ---
 <div id="cer">
