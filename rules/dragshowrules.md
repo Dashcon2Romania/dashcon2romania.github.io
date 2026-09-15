@@ -59,7 +59,7 @@ subtitle: Reguli Drag Show
 
 - No use of footage of real people not playing a character ( actors in their day-to-day life, YouTubers, influencers, musicians not performing etc. ) If you are not sure if what you want to do qualifies, feel free to ask.
 
-- The use of generative AI is strictly prohibited. Entries discovered to have used generative AI in any of their assets (music, voice, text, image, video, etc.) will be disqualified.
+- The use of generative AI is _**strictly prohibited**_. Entries discovered to have used generative AI in any of their assets (music, voice, text, image, video, etc.) will be disqualified.
 
 - Costumes cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
 
@@ -84,7 +84,7 @@ subtitle: Reguli Drag Show
 - Anyone who violates these rules will be disqualified.
 
 ---
-Limitations of Liability: DashCon 2: Romania is not responsible for any injury or damage to persons or property which may be caused, directly or indirectly, in whole or in part, from entrant’s participation in the contest.
+_**Limitations of Liability:** DashCon 2: Romania is not responsible for any injury or damage to persons or property which may be caused, directly or indirectly, in whole or in part, from entrant’s participation in the contest._
 
 
 ---
@@ -97,24 +97,22 @@ Limitations of Liability: DashCon 2: Romania is not responsible for any injury o
 
 - <a href="#geninforo">Informații generale</a>
 - <a href="#cer">Cerințe pentru înscriere</a>
-- <a href="#reguli">Reguli AMV Showcase</a>
+- <a href="#reguli">Reguli Drag Show</a>
 
 ---
 <div id="geninforo">
 <h3>Informații generale</h3>
 </div>
 
-- Locurile se vor ocupa în baza “primul venit, primul servit”.
+- Vor fi 15 locuri. Locurile în concurs se vor ocupa în baza “primul venit, primul _servit_”.
 
-- Formularul se va închide fie pe 14 noiembrie, fie după ce se atinge limita de timp (1 oră).
+- Pentru participare, trebuie să aveți un bilet la DashCon 2: România.
 
-- Videoclipurile trebuie să aibă o durată de minim 30 de secunde și maxim 3 minute (180 de secunde).
+- Numerele nu pot depăși 3 minute (180 de secunde).
 
-- Fiecare poate avea maxim 3 înscrieri.
+- Concursul este deschis persoanelor cu vârsta minimă de 18 ani sau peste.
 
-- Raportul de aspect al ecranului va fi de 12:6, cu excepția cazului în care vom face modificări. Recomandăm să folosiți un aspect orizontal (peisaj), altfel este posibil ca videoclipul să nu se afișeze bine.
-
-- Animațiile sunt permise!
+- Momentele trebuie să fie potrivite pentru un public PG-13.
 
 ---
 <div id="cer">
@@ -123,36 +121,55 @@ Limitations of Liability: DashCon 2: Romania is not responsible for any injury o
 
 - Trebuie să aveți bilet la DashCon 2: România.
 
-- Participanții trebuie să trimită un link prin care să putem viziona videoclipul.
- - De exemplu, videoclipurile pot fi trimise prin linkuri de Dropbox, OneDrive sau YouTube, fie publice, fie nelistate.
+- Ținuta ta trebuie să respecte tema convenției: clovni, fandom, Tumblr, personaje fictive, 2010s internet.
 
-- Este responsabilitatea participantului să se asigure că linkul este accesibil fără ca echipa noastră să fie nevoită să solicite accesul manual.
+- Vi se va cere să trimiteți o scurtă descriere pentru performance-ul planificat.
 
-- Materialul trimis trebuie să fie versiunea finală a videoclipului.
-
-- Conținutul generat cu AI, sub orice formă, este _**strict interzis**_.
+- Concurenții trebuie să trimită o imagine + audio sau un videoclip care va însoți performance-ul. Videoclipul și/sau imaginea vor fi afișate pe ecranul din spatele scenei în timpul performance-ului. Dacă trimiteți linkul către un videoclip mai lung de durata spectacolului, personalul nu va fi responsabil de editarea acestuia.
 
 ---
 <div id="reguli">
 <h3>Reguli Drag Show</h3>
 </div>
 
-- În cazul în care apar probleme tehnice cu fișierele, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul.
+- În cazul în care apar probleme tehnice cu fișierele video/audio, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul/audio-ul.
+
+- Participanții trebuie să sosească cu 30 minute înainte de ora spectacolului.
+
+- Momentele pe scenă nu pot depăși 3 minute (180 de secunde).
+
+- Timpul de montare a recuzitei: max. 30 de secunde.
+
+- Prezentările nu vor fi luate în considerare la timpul de montare sau de performance.
+
+- Fiecare participant poate apărea pe scenă o singură dată și poate trimite doar o (1) înscriere. Stage Ninjas pot susține mai multe înscrieri.
 
 - Utilizarea AI este _**strict interzisă**_. Înscrierile care sunt descoperite că au folosit generative AI în oricare dintre materialele lor (muzică, voce, text, imagine, video etc.) vor fi descalificate.
 
-- Evitați utilizarea luminilor sau imaginilor intermitente pentru siguranța spectatorilor.
+- Costumele nu pot fi obscene, jignitoare și nici nu pot susține vreo formă de ură sau grup de ură. Nuditatea nu este permisă.
 
-- Videoclipurile nu pot fi obscene, jignitoare și nici nu pot susține vreo formă de ură sau grup de ură. Nuditatea nu este permisă.
+- Spectacolul nu poate conține gesturi și acțiuni obscene, jignitoare, rasiste sau sexuale.
 
-- Nu este permisă profanitatea excesivă. Acesta este un eveniment pentru toate vârstele.
+- Nu este permisă profanitatea excesivă pe scenă. Acesta este un eveniment pentru toate vârstele.
 
-- Nu se permite utilizarea de clipuri cu persoane reale care nu interpretează un personaj (actori în viața lor de zi cu zi, youtuberi, influenceri, muzicieni care nu performează etc.). Dacă nu sunteți sigur dacă ceea ce doriți să faceți se califică, nu ezitați să întrebați.
+- Prop-urile trebuie să fie fabricate din materiale sigure și ușoare, cum ar fi spumă, carton, plastic etc.
 
-- Videoclipurile trebuie să aibă cel puțin o editare minimă pentru a fi eligibile.
+- Costumele trebuie să încapă printr-o ușă standard și nu pot împiedica traficul sau bloca zonele de acces. Dacă costumul este voluminos, vă obstrucționează vederea sau are extensii mari (de exemplu, cozi sau aripi), ar trebui să aveți un ajutor desemnat care să vă ajute să navigați prin convenţie.
 
-- Vă rugăm să aveți grijă la nivelurile de volum ale videoclipurilor. Dacă utilizați mai multe sunete, asigurați-vă că egalizați volumul.
+- Orice este adus pe scenă în timpul unei prezentări trebuie îndepărtat la sfârșitul timpului limită.
 
-- Nu este permisă publicitatea brandurilor în videoclip.
+- Recuzita dezordonată sau periculoasă, de exemplu confetti, sclipici, petale de flori, lumini intermitente, foc, fum și lichide, nu este permisă.
 
-- Oricine încalcă aceste reguli va fi descalificat.
+- Participanții nu pot arunca nimic de pe scenă sau în mulțime.
+
+- Artiștii trebuie să rămână pe scenă pe tot parcursul spectacolului și nu pot face cascadorii precum sărituri de pe scenă, sărituri în mulțime sau să se urce pe echipamentele din apropiere.
+
+- Cascadoriile precum rostogoliri, roata, șpagatul etc. pot fi executate numai în zona scenei, iar artistul este responsabil pentru orice vătămări rezultate în urma cascadoriilor sale.
+
+- Oricine încalcă aceste reguli va fi descalificat din competiție.
+
+---
+_**Limitări de răspundere:** DashCon 2: România nu este responsabil pentru nicio vătămare corporală sau daună adusă persoanelor sau bunurilor care poate fi cauzată, direct sau indirect, în totalitate sau parțial, de participarea la concurs._
+
+
+---
