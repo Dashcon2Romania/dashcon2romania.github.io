@@ -1,7 +1,7 @@
 ---
 layout: page
-title: AMV Showcasse Rules
-subtitle: Reguli AMV Showcase
+title: Drag Show Rules
+subtitle: Reguli Drag Show
 ---
 <link rel="stylesheet" href="clownstyle.css">
 
@@ -12,24 +12,22 @@ subtitle: Reguli AMV Showcase
 
 - <a href="#geninfo">General Information</a>
 - <a href="#req">Requirements for sign-up</a>
-- <a href="#rules">AMV Showcase Rules</a>
+- <a href="#rules">Drag Show Rules</a>
 
 ---
 <div id="geninfo">
 <h3>General Information</h3>
 </div>
 
-- Spots will be filled on a first come, first served basis.
+- There will be 15 spots. Spots will be filled on a first come, first _serve_ basis.
 
-- The form will close either on the 14th of November or once we reach the time limit (1 hour).
+- You must own a DashCon 2: Romania ticket to participate.
 
-- Your video has to have a duration of minimum 30 seconds and maximum 3 minutes (180 seconds).
+- Performances cannot exceed 3 minutes (180 seconds).
 
-- Each person can have a maximum of 3 entries.
+- Participation is open for ages 18 and up.
 
-- Our screen ratio will be 12:6 unless we have any changes. We recommend using a horizontal (landscape) layout, otherwise, your video might not display well.
-
-- Animations are allowed too!
+- Performances must be catered to a PG-13 audience.
 
 ---
 <div id="req">
@@ -38,39 +36,55 @@ subtitle: Reguli AMV Showcase
 
 - You must own a DashCon 2: Romania ticket.
 
-- Applicants will need to submit a shareable link through which we can watch the video.
-  - For example, videos may be sent through Dropbox, OneDrive, or YouTube links, either public or unlisted.
+- Your look has to respect the theme of the convention: clowns, fandom, Tumblr, fictional characters, 2010s internet.
 
-- It is the applicant’s responsibility to ensure that the link is accessible without our team needing to manually request access.
+- You will be required to submit a draft script/outline of the performance that is planned.
 
-- Your submission must be the final version of the video.
-
-- AI-generated content, in any shape or form, is _**strictly prohibited**_.
+- Contestants must submit an image + audio or a video that will accompany the performance. The video and the image that will be shown on the screen behind them during their performance. If you send the link to a video that extends the performance time, the staff won’t be in charge of editing it.
 
 ---
 <div id="rules">
-<h3>AMV Showcase Rules</h3>
+<h3>Drag Show Rules</h3>
 </div>
 
-- In case of technical issues with your files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video.
+- In case of technical issues with your video/audio files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video/audio.
 
-- The use of generative AI is _**strictly prohibited**_. Entries discovered to have used generative AI in any of their assets (music, voice, text, image, video, etc.) will be disqualified.
+- Participants must arrive at least 30 minutes before the show.
 
-- Avoid using flashing lights or images for the safety of the viewers.
+- Setup time for props: max. 30 seconds.
 
-- Videos cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
+- MC introductions will not count towards the performance or setup time.
 
-- No excessive profanity allowed. This is an all-ages event.
+- Each applicant may only appear on stage once and submit one (1) entry. Stage ninjas may support multiple entries.
 
-- No use of footage of real people not playing a character ( actors in their day-to-day life, youtubers, influencers, musicians not performing etc. ) If you are not sure if what you want to do qualifies, feel free to ask.
+- No use of footage of real people not playing a character ( actors in their day-to-day life, YouTubers, influencers, musicians not performing etc. ) If you are not sure if what you want to do qualifies, feel free to ask.
 
-- Videos must have some minimal editing at least to qualify.
+- The use of generative AI is strictly prohibited. Entries discovered to have used generative AI in any of their assets (music, voice, text, image, video, etc.) will be disqualified.
 
-- Please mind your video’s volume levels. If using multiple audios, make sure to equalize the volume.
+- Costumes cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
 
-- No brand advertising in the video.
+- The performance cannot contain obscene, offensive, racist, or sexual gestures and actions.
+
+- No excessive profanity allowed on stage. This is an all-ages event.
+
+- Props must be made out of safe, light materials such as foam, cardboard, plastic, etc.
+
+- Costumes must fit through a standard doorway and cannot impede traffic or block walkways. If your costume is bulky, obscures your vision, or has big extensions (e.g. tails or wings), you should have a designated “handler” to help you navigate the event.
+
+- Everything brought onto the stage during a walk-on must be removed at the end of the time limit.
+
+- Messy or dangerous props including confetti, glitter, flower petals, flashing lights, fire, smoke, and liquids are not allowed.
+
+- Performers may not throw anything off the stage or into the crowd.
+
+- Performers must remain on stage during the whole performance and cannot do stunts such as jumping off the stage, jumping into the crowd or climbing on nearby equipment.
+
+- Stunts such as flips, cartwheels, splits etc. may only be performed within the stage area, and the performer is responsible for any injuries resulting from their stunts.
 
 - Anyone who violates these rules will be disqualified.
+
+---
+Limitations of Liability: DashCon 2: Romania is not responsible for any injury or damage to persons or property which may be caused, directly or indirectly, in whole or in part, from entrant’s participation in the contest.
 
 
 ---
@@ -120,7 +134,7 @@ subtitle: Reguli AMV Showcase
 
 ---
 <div id="reguli">
-<h3>Reguli AMV Showcase</h3>
+<h3>Reguli Drag Show</h3>
 </div>
 
 - În cazul în care apar probleme tehnice cu fișierele, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul.
