@@ -27,6 +27,8 @@ subtitle: Reguli Drag Show
 
 - Participation is open for ages 18 and up.
 
+- Drag queens, kings and things are welcome!
+
 - Performances must be catered to a PG-13 audience.
 
 ---
@@ -111,6 +113,8 @@ _**Limitations of Liability:** DashCon 2: Romania is not responsible for any inj
 - Numerele nu pot depăși 3 minute (180 de secunde).
 
 - Concursul este deschis persoanelor cu vârsta minimă de 18 ani sau peste.
+
+- Drag queens, kings, things, toată lumea e binevenită!
 
 - Momentele trebuie să fie potrivite pentru un public PG-13.
 
