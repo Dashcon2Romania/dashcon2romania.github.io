@@ -33,7 +33,7 @@ _Now_, I mean it when I said _little version_. We’re nowhere near the scale of
 
 The event will last for **one day**, from 10 to 20, and will take place on **Saturday, November 21st 2026**, at **Terra Events Hall** in **Bucharest, Romania**. 
 
-_Tickets are available [✩HERE✩](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/) through iabilet.ro!_
+_See you all in November! ₊˚⊹♡_
 
 
 
@@ -65,7 +65,7 @@ Am zis intenționat _o versiune mică_. Nu suntem nici pe aproape de mărimea co
 
 Evenimentul va dura **o zi**, de la 10 la 20, și va avea loc pe data de **21 noiembrie 2026**, la **Terra Events Hall** în **București, România**.
 
-_Biletele sunt disponibile [✩AICI✩](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/) prin iabilet.ro!_
+_Ne vedem cu toții în noiembrie! ₊˚⊹♡_
 <br>
 
 
