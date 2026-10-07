@@ -177,33 +177,33 @@ Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
 În primul rând, **MULȚUMIM** MULT că ați decis să vă alăturați ca voluntari! Ajutorul vostru contează foarte mult pentru noi și sperăm că aceasta va fi o experiență plăcută și satisfăcătoare!
 
 Am întocmit această mică prezentare generală pentru a vă informa la ce să vă așteptați în ziua evenimentului și pentru ce roluri vom avea nevoie de ajutorul voluntarilor.
-<a href="#structura">
-</h3>STRUCTURA</h3>
-</a>
-<a href="#timpul">Timpul de Lucru</a>
-<a href="#impres">Împărțirea Responsabilităților</a>
-<a href="#roluri">
-<h3>ROLURI</h3>
-</a>
-<a href="#int">Intrare</a>
-<a href="#propv">Verificare Prop-uri</a>
-<a href="#gar">Garderobă</a>
-<a href="#case">Case de Marcat</a>
-<a href="#aaro">Aleea Artiștilor</a>
-<a href="#scena">Scenă</a>
-<a href="#bpro">Ball Pit</a>
-<a href="#merchro">Stand cu Merch</a>
-<a href="#crowro">Crow Exchange</a>
-<a href="#ajutor">Ajutor Extra</a>
-<a href="#reguliben">
-h3>REGULI & BENEFICII</h3>
-</a>
-<a href="#reguli">Reguli</a>
-<a href="#ben">Beneficii</a>
-<a href="#resro">
-<h3>RESURSE</h3>
-</a>
-<a href="#contactro">Contact</a>
+<a href="#structura"></h3>STRUCTURA</h3></a>
+<ul>
+<li><a href="#timpul">Timpul de Lucru</a></li>
+<li><a href="#impres">Împărțirea Responsabilităților</a></li>
+</ul>
+<a href="#roluri"><h3>ROLURI</h3></a>
+<ul>
+<li><a href="#int">Intrare</a></li>
+<li><a href="#propv">Verificare Prop-uri</a></li>
+<li><a href="#gar">Garderobă</a></li>
+<li><a href="#case">Case de Marcat</a></li>
+<li><a href="#aaro">Aleea Artiștilor</a></li>
+<li><a href="#scena">Scenă</a></li>
+<li><a href="#bpro">Ball Pit</a></li>
+<li><a href="#merchro">Stand cu Merch</a></li>
+<li><a href="#crowro">Crow Exchange</a></li>
+<li><a href="#ajutor">Ajutor Extra</a></li>
+</ul>
+<a href="#reguliben"><h3>REGULI & BENEFICII</h3></a>
+<ul>
+<li><a href="#reguli">Reguli</a></li>
+<li><a href="#ben">Beneficii</a></li>
+</ul>
+<a href="#resro"><h3>RESURSE</h3></a>
+<ul>
+<li><a href="#contactro">Contact</a></li>
+</ul>
 
 <div id="structura">
 <h2>STRUCTURA</h2>
