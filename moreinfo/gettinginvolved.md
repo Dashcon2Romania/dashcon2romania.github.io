@@ -17,7 +17,7 @@ We put together this little overview to let you know what to expect on the day o
 <li><a href="#structure"></h3>STRUCTURE</h3></a></li>
 <li><a href="#worktime">Work Time</a></li>
 <li><a href="#resp">Splitting of Responsibilities</a></li>
-<li><a href="#roles"><h3>ROLES</h3></a></li>
+<a href="#roles"><h3>ROLES</h3></a>
 <li><a href="#ent">Entrance</a></li>
 <li><a href="#prop">Prop Check</a></li>
 <li><a href="#clk">Cloakroom</a></li>
@@ -28,7 +28,7 @@ We put together this little overview to let you know what to expect on the day o
 <li><a href="#merch">Merch Stand</a></li>
 <li><a href="#crow">Crow Exchange</a></li>
 <li><a href="#help">Extra Help</a></li>
-<li><a href="#rulesperks"><h3>RULES & PERKS</h3></a></li>
+<a href="#rulesperks"><h3>RULES & PERKS</h3></a>
 <li><a href="#rules">Rules</a></li>
 <li><a href="#perks">Perks</a></li>
 <a href="#res">
