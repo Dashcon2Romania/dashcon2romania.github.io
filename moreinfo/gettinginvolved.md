@@ -14,12 +14,12 @@ First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your
 
 We put together this little overview to let you know what to expect on the day of the event and which roles we will need volunteers’ help with.
 
-<a href="#structure"><h3>STRUCTURE</h3></a>
+<h3><a href="#structure">STRUCTURE</a></h3>
 <ul>
 <li><a href="#worktime">Work Time</a></li>
 <li><a href="#resp">Splitting of Responsibilities</a></li>
 </ul>
-<a href="#roles"><h3>ROLES</h3></a>
+<h3><a href="#roles">ROLES</a></h3>
 <ul>
 <li><a href="#ent">Entrance</a></li>
 <li><a href="#prop">Prop Check</a></li>
@@ -32,12 +32,12 @@ We put together this little overview to let you know what to expect on the day o
 <li><a href="#crow">Crow Exchange</a></li>
 <li><a href="#help">Extra Help</a></li>
 </ul>
-<a href="#rulesperks"><h3>RULES & PERKS</h3></a>
+<h3><a href="#rulesperks">RULES & PERKS</a></h3>
 <ul>
 <li><a href="#rules">Rules</a></li>
 <li><a href="#perks">Perks</a></li>
 </ul>
-<a href="#res"><h3>RESOURCES</h3></a>
+<h3><a href="#res">RESOURCES</a></h3>
 <ul>
 <li><a href="#contact">Contact</a></li>
 </ul>
@@ -178,12 +178,12 @@ Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
 
 Am întocmit această mică prezentare generală pentru a vă informa la ce să vă așteptați în ziua evenimentului și pentru ce roluri vom avea nevoie de ajutorul voluntarilor.
 
-<a href="#structura"></h3>STRUCTURA</h3></a>
+<h3><a href="#structura">STRUCTURA</a></h3>
 <ul>
 <li><a href="#timpul">Timpul de Lucru</a></li>
 <li><a href="#impres">Împărțirea Responsabilităților</a></li>
 </ul>
-<a href="#roluri"><h3>ROLURI</h3></a>
+<h3><a href="#roluri">ROLURI</a></h3>
 <ul>
 <li><a href="#int">Intrare</a></li>
 <li><a href="#propv">Verificare Prop-uri</a></li>
@@ -196,12 +196,12 @@ Am întocmit această mică prezentare generală pentru a vă informa la ce să 
 <li><a href="#crowro">Crow Exchange</a></li>
 <li><a href="#ajutor">Ajutor Extra</a></li>
 </ul>
-<a href="#reguliben"><h3>REGULI & BENEFICII</h3></a>
+<h3><a href="#reguliben">REGULI & BENEFICII</a></h3>
 <ul>
 <li><a href="#reguli">Reguli</a></li>
 <li><a href="#ben">Beneficii</a></li>
 </ul>
-<a href="#resro"><h3>RESURSE</h3></a>
+<h3><a href="#resro">RESURSE</a></h3>
 <ul>
 <li><a href="#contactro">Contact</a></li>
 </ul>
