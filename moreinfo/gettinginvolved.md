@@ -14,7 +14,7 @@ First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your
 
 We put together this little overview to let you know what to expect on the day of the event and which roles we will need volunteers’ help with.
 <ul>
-<li><a href="#structure"></h3>STRUCTURE</h3></a></li>
+<a href="#structure"></h3>STRUCTURE</h3></a>
 <li><a href="#worktime">Work Time</a></li>
 <li><a href="#resp">Splitting of Responsibilities</a></li>
 <a href="#roles"><h3>ROLES</h3></a>
