@@ -14,32 +14,34 @@ First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your
 
 We put together this little overview to let you know what to expect on the day of the event and which roles we will need volunteers’ help with.
 <a href="#structure">
-</h3>STRUCTURE</h3>
+<li></h3>STRUCTURE</h3>
 </a>
-<a href="#worktime">Work Time</a>
-<a href="#resp">Splitting of Responsibilities</a>
-<a href="#roles">
+<ul>
+<li><a href="#worktime">Work Time</a>
+<li><a href="#resp">Splitting of Responsibilities</a>
+<li><a href="#roles">
 <h3>ROLES</h3>
 </a>
-<a href="#ent">Entrance</a>
-<a href="#prop">Prop Check</a>
-<a href="#clk">Cloakroom</a>
-<a href="#cash">Cash Registers</a>
-<a href="#aa">Artist Alley</a>
-<a href="#stage">Stage</a>
-<a href="#bp">Ball Pit</a>
-<a href="#merch">Merch Stand</a>
-<a href="#crow">Crow Exchange</a>
-<a href="#help">Extra Help</a>
-<a href="#rulesperks">
-<h3>RULES & PERKS</h3>
+<li><a href="#ent">Entrance</a>
+<li><a href="#prop">Prop Check</a>
+<li><a href="#clk">Cloakroom</a>
+<li><a href="#cash">Cash Registers</a>
+<li><a href="#aa">Artist Alley</a>
+<li><a href="#stage">Stage</a>
+<li><a href="#bp">Ball Pit</a>
+<li><a href="#merch">Merch Stand</a>
+<li><a href="#crow">Crow Exchange</a>
+<li><a href="#help">Extra Help</a>
+<li><a href="#rulesperks">
+<li><h3>RULES & PERKS</h3>
 </a>
-<a href="#rules">Rules</a>
-<a href="#perks">Perks</a>
-<a href="#res">
-<h3>RESOURCES</h3>
+<li><a href="#rules">Rules</a>
+<li><a href="#perks">Perks</a>
+<li><a href="#res">
+<li><h3>RESOURCES</h3>
 </a>
-<a href="#contact">Contact</a>
+<li><a href="#contact">Contact</a>
+</ul>
 
 <div id="structure">
 <h2>STRUCTURE</h2>
