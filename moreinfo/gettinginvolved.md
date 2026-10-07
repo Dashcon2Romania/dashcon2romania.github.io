@@ -112,13 +112,13 @@ They should also be available to **carry** upstairs the coat of someone who migh
 <h3>Crow Exchange</h3>
   </div>
   
-**Two** people will be watching over the Crow Exchange table, making sure people know how it works and the exchanges happen smoothly.
+**One** person will be watching over the Crow Exchange table, making sure people know how it works and the exchanges happen smoothly.
 
 <div id="help">
 <h3>Extra Help</h3>
   </div>
   
-**Five** people will be on standby, there to help out whenever any other volunteer needs a break or extra help.
+**Two** people will be on standby, there to help out whenever any other volunteer needs a break or extra help.
 
 <div id="rulesperks">
 <h2>RULES & PERKS</h2>
@@ -266,13 +266,13 @@ Acestea ar trebui să fie disponibile să **urce** la etaj haina unei persoane c
 <h3>Crow Exchange</h3>
   </div>
   
-**Două** persoane vor supraveghea masa de Crow Exchange, asigurându-se că oamenii știu cum funcționează și că schimburile se desfășoară fără probleme.
+**O** persoană va supraveghea masa de Crow Exchange, asigurându-se că oamenii știu cum funcționează și că schimburile se desfășoară fără probleme.
 
 <div id="ajutor">
 <h3>Ajutor Extra</h3>
   </div>
   
-**Cinci** persoane vor în standby, pregătite pentru a ajuta ori de câte ori un alt voluntar are nevoie de o pauză sau de ajutor suplimentar.
+**Două** persoane vor în standby, pregătite pentru a ajuta ori de câte ori un alt voluntar are nevoie de o pauză sau de ajutor suplimentar.
 
 <div id="reguliben">
 <h2>REGULI & BENEFICII</h2>
