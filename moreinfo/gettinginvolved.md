@@ -177,6 +177,7 @@ Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
 În primul rând, **MULȚUMIM** MULT că ați decis să vă alăturați ca voluntari! Ajutorul vostru contează foarte mult pentru noi și sperăm că aceasta va fi o experiență plăcută și satisfăcătoare!
 
 Am întocmit această mică prezentare generală pentru a vă informa la ce să vă așteptați în ziua evenimentului și pentru ce roluri vom avea nevoie de ajutorul voluntarilor.
+
 <a href="#structura"></h3>STRUCTURA</h3></a>
 <ul>
 <li><a href="#timpul">Timpul de Lucru</a></li>
