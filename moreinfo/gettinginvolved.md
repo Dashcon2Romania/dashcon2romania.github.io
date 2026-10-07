@@ -13,8 +13,9 @@ Would you like to help out? **Join us as a volunteer!**
 First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your help means a lot to us and we hope this will be a fun and fulfilling experience for you too!
 
 We put together this little overview to let you know what to expect on the day of the event and which roles we will need volunteers’ help with.
-
-</h3><a href="#structure">STRUCTURE</a></h3>
+<a href="#structure">
+</h3>STRUCTURE</h3>
+</a>
 <a href="#worktime">Work Time</a>
 <a href="#resp">Splitting of Responsibilities</a>
 <h3><a href="#roles">ROLES</a></h3>
@@ -167,8 +168,9 @@ Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
 În primul rând, **MULȚUMIM** MULT că ați decis să vă alăturați ca voluntari! Ajutorul vostru contează foarte mult pentru noi și sperăm că aceasta va fi o experiență plăcută și satisfăcătoare!
 
 Am întocmit această mică prezentare generală pentru a vă informa la ce să vă așteptați în ziua evenimentului și pentru ce roluri vom avea nevoie de ajutorul voluntarilor.
-
-</h3><a href="#structura">STRUCTURA</a></h3>
+<a href="#structura">
+</h3>STRUCTURA</h3>
+</a>
 <a href="#timpul">Timpul de Lucru</a>
 <a href="#impres">Împărțirea Responsabilităților</a>
 <h3><a href="#roluri">ROLURI</a></h3>
