@@ -13,34 +13,28 @@ Would you like to help out? **Join us as a volunteer!**
 First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your help means a lot to us and we hope this will be a fun and fulfilling experience for you too!
 
 We put together this little overview to let you know what to expect on the day of the event and which roles we will need volunteers’ help with.
-<a href="#structure">
-<li></h3>STRUCTURE</h3>
-</a>
 <ul>
-<li><a href="#worktime">Work Time</a>
-<li><a href="#resp">Splitting of Responsibilities</a>
-<li><a href="#roles">
-<h3>ROLES</h3>
+<li><a href="#structure"></h3>STRUCTURE</h3></a></li>
+<li><a href="#worktime">Work Time</a></li>
+<li><a href="#resp">Splitting of Responsibilities</a></li>
+<li><a href="#roles"><h3>ROLES</h3></a></li>
+<li><a href="#ent">Entrance</a></li>
+<li><a href="#prop">Prop Check</a></li>
+<li><a href="#clk">Cloakroom</a></li>
+<li><a href="#cash">Cash Registers</a></li>
+<li><a href="#aa">Artist Alley</a></li>
+<li><a href="#stage">Stage</a></li>
+<li><a href="#bp">Ball Pit</a></li>
+<li><a href="#merch">Merch Stand</a></li>
+<li><a href="#crow">Crow Exchange</a></li>
+<li><a href="#help">Extra Help</a></li>
+<li><a href="#rulesperks"><h3>RULES & PERKS</h3></a></li>
+<li><a href="#rules">Rules</a></li>
+<li><a href="#perks">Perks</a></li>
+<a href="#res">
+<li><h3>RESOURCES</h3></li>
 </a>
-<li><a href="#ent">Entrance</a>
-<li><a href="#prop">Prop Check</a>
-<li><a href="#clk">Cloakroom</a>
-<li><a href="#cash">Cash Registers</a>
-<li><a href="#aa">Artist Alley</a>
-<li><a href="#stage">Stage</a>
-<li><a href="#bp">Ball Pit</a>
-<li><a href="#merch">Merch Stand</a>
-<li><a href="#crow">Crow Exchange</a>
-<li><a href="#help">Extra Help</a>
-<li><a href="#rulesperks">
-<li><h3>RULES & PERKS</h3>
-</a>
-<li><a href="#rules">Rules</a>
-<li><a href="#perks">Perks</a>
-<li><a href="#res">
-<li><h3>RESOURCES</h3>
-</a>
-<li><a href="#contact">Contact</a>
+<li><a href="#contact">Contact</a></li>
 </ul>
 
 <div id="structure">
