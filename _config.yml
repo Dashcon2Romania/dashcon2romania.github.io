@@ -32,7 +32,9 @@ navbar-links:
     - Cosplay Contest Rules: "/rules/cosplaycontestrules"
     - AMV Showcase Rules: "/rules/amvshowcaserules"
     - Drag Show Rules: "/rules/dragshowrules"
-  Our Artists: "artists"
+  Guests:
+    - Our Artists: "/guests/artists"
+    - Our Judges: "/guests/judges"
   Socials:
     - Tumblr: "https://dashcon-2-romania.tumblr.com/"
     - TikTok: "https://www.tiktok.com/@dashcon2romania"
