@@ -18,7 +18,9 @@ We put together this little overview to let you know what to expect on the day o
 </a>
 <a href="#worktime">Work Time</a>
 <a href="#resp">Splitting of Responsibilities</a>
-<h3><a href="#roles">ROLES</a></h3>
+<a href="#roles">
+<h3>ROLES</h3>
+</a>
 <a href="#ent">Entrance</a>
 <a href="#prop">Prop Check</a>
 <a href="#clk">Cloakroom</a>
@@ -29,10 +31,14 @@ We put together this little overview to let you know what to expect on the day o
 <a href="#merch">Merch Stand</a>
 <a href="#crow">Crow Exchange</a>
 <a href="#help">Extra Help</a>
-<h3><a href="#rulesperks">RULES & PERKS</a></h3>
+<a href="#rulesperks">
+<h3>RULES & PERKS</h3>
+</a>
 <a href="#rules">Rules</a>
 <a href="#perks">Perks</a>
-<h3><a href="#res">RESOURCES</a></h3>
+<a href="#res">
+<h3>RESOURCES</h3>
+</a>
 <a href="#contact">Contact</a>
 
 <div id="structure">
@@ -42,11 +48,13 @@ We put together this little overview to let you know what to expect on the day o
 <h3>Work Time</h3>
   </div>
   
-Your work will be structured so that you will work for half of the event ( **5 hours** ). The rest of the time, you're free to enjoy yourself at the event!
+Your work will be structured so that you will work for half of the event ( **5 hours** ). The rest of the time, you're free to enjoy yourself at the event! **But please be present at the location for the entire duration of the event.**
 
 There will be two teams of volunteers for each half of the day, **10:00 - 15:00** and **15:00 - 20:00**.
 
 Please make sure you arrive **at least an hour** before your start time to ensure you are all settled in when you're supposed to start.
+
+The morning shift will help us arrange what is left before opening. The evening shift will help us clean up for closing.
 
 <div id="resp">
 <h3>Splitting of Responsibilities</h3>
@@ -173,7 +181,9 @@ Am întocmit această mică prezentare generală pentru a vă informa la ce să 
 </a>
 <a href="#timpul">Timpul de Lucru</a>
 <a href="#impres">Împărțirea Responsabilităților</a>
-<h3><a href="#roluri">ROLURI</a></h3>
+<a href="#roluri">
+<h3>ROLURI</h3>
+</a>
 <a href="#int">Intrare</a>
 <a href="#propv">Verificare Prop-uri</a>
 <a href="#gar">Garderobă</a>
@@ -184,10 +194,14 @@ Am întocmit această mică prezentare generală pentru a vă informa la ce să 
 <a href="#merchro">Stand cu Merch</a>
 <a href="#crowro">Crow Exchange</a>
 <a href="#ajutor">Ajutor Extra</a>
-<h3><a href="#reguliben">REGULI & BENEFICII</a></h3>
+<a href="#reguliben">
+h3>REGULI & BENEFICII</h3>
+</a>
 <a href="#reguli">Reguli</a>
 <a href="#ben">Beneficii</a>
-<h3><a href="#resro">RESURSE</a></h3>
+<a href="#resro">
+<h3>RESURSE</h3>
+</a>
 <a href="#contactro">Contact</a>
 
 <div id="structura">
@@ -197,11 +211,13 @@ Am întocmit această mică prezentare generală pentru a vă informa la ce să 
 <h3>Timpul de Lucru</h3>
   </div>
   
-Munca voastră va fi structurată astfel încât să lucrați jumătate din eveniment ( **5 ore** ). În restul timpului, sunteți liberi să vă distrați!
+Munca voastră va fi structurată astfel încât să lucrați jumătate din eveniment ( **5 ore** ). În restul timpului, sunteți liberi să vă distrați! **Vă rugăm însă să fiți prezenți la locație pe întreaga durată a evenimentului.**
 
 Vor fi două echipe de voluntari pentru fiecare jumătate a zilei, **10:00 - 15:00** și **15:00 - 20:00**.
 
 Vă rugăm să vă asigurați că ajungeți cu **cel puțin o oră** înainte de intervalul orar ales pentru a vă asigura că sunteți pregătiți să începeți la ora fixă.
+
+Tura de dimineață ne va ajuta să aranjăm ce mai e de aranjat pănă la deschidere. Tura de seară ne va ajuta să curățăm la închidere.
 
 <div id="impres">
 <h3>Împărțirea Responsabilităților</h3>
