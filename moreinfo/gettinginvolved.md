@@ -140,7 +140,8 @@ They should also be available to **carry** upstairs the coat of someone who migh
 - You must have reached **the age of 16**.
 - If you are under the age of 18, you must provide a signed **Parental Form**.
    - [Here's a link to the English Parental Form for Volunteers.](https://drive.google.com/file/d/16NnXIQiLCg49qJH7LLgFQCyB65M4JbqV/view?usp=sharing)
-- You must be available for the entire duration of the event + 30 minutes before your scheduled task start time.
+- You must be available for the entire duration of the event + an hour before your scheduled task start time.
+   - _In case there's issues and you might be needed, you might be asked to step in outside of your time slot._
 - Please include any pertinent **experience** in your application. We will favor people with relevant experience to the task they're aiming for.
 - If you have any **medical conditions** that could affect your volunteering, please inform us when you submit your request so we can accommodate you accordingly. _All information will be kept confidential._
 - If you have any food allergies or other dietary restrictions, please let us know.
@@ -306,6 +307,7 @@ Acestea ar trebui să fie disponibile să **urce** la etaj haina unei persoane c
 - Dacă aveți sub 18 ani, trebuie să furnizați un **Formular de Consimțământ Parental** semnat.
     - [Aici este un link către Formularul de Consimțământ Parental pentru Voluntari în română.](https://drive.google.com/file/d/1M4HnUMchRPK8GPTxhVykd1G2T3xldglp/view?usp=sharing)
 - Trebuie să fiți disponibili pe întreaga durată a evenimentului + o oră înainte de ora programată de începere a sarcinii.
+    - _În cazul în care apar probleme, este posibil să vi se solicite să interveniți în afara intervalului orar ales._
 - Vă rugăm să includeți în formular orice **experiență** relevantă. Vom favoriza persoanele cu experiență anterioară pentru sarcina pe care o doresc.
 - Dacă aveți orice **afecțiuni medicale** care v-ar putea afecta voluntariatul, vă rugăm să ne informați atunci când trimiteți cererea, astfel încât să vă putem oferi soluții în consecință. _Toate informațiile vor fi păstrate confidențiale._
 - Dacă aveți alergii alimentare sau alte restricții alimentare, vă rugăm să ne anunțați.
