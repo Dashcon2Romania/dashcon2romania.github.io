@@ -104,7 +104,7 @@ They should also be available to **carry** upstairs the coat of someone who migh
 <h3>Stage</h3>
   </div>
   
-**Three** people will be helping with moving stage props and furniture between acts and activities.
+**Three** people will be helping with moving stage props and furniture between acts and activities. They will also be guiding performers into an orderly line, giving them a heads up of when they should get on stage.
 
 <div id="bp">
 <h3>Ball Pit</h3>
@@ -270,7 +270,7 @@ Acestea ar trebui să fie disponibile să **urce** la etaj haina unei persoane c
 <h3>Scenă</h3>
   </div>
   
-**Trei** persoane vor ajuta la mutarea recuzitei și a mobilierului pe scenă între activități.
+**Trei** persoane vor ajuta la mutarea recuzitei și a mobilierului pe scenă între activități. Ei vor ghida, de asemenea, participanții activităților de pe scenă într-un rând ordonat, anunțându-i dinainte cu privire la momentul în care ar trebui să urce pe scenă.
 
 <div id="bpro">
 <h3>Ball Pit</h3>
