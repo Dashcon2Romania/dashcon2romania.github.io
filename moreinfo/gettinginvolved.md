@@ -6,7 +6,8 @@ subtitle: Cum v-ați putea implica
 ## EN
 <a href="#jump_to"> >Sari la limba română< </a>
 
-Would you like to help out? **Join us as a volunteer!**
+Would you like to help out? **Join us as a volunteer!** 
+[_Here is the **Application Form.**_](https://docs.google.com/forms/d/e/1FAIpQLScRpr35O08aNXlfxWToPcL4TPJQN5eP-Frx5F8W7b7XEprI1A/viewform?usp=sharing&ouid=108044500861450357115).
 
 # Volunteer’s Guide
 
@@ -173,6 +174,7 @@ To facilitate communication between the Organizers and the Volunteers, we have t
 </div>
 
 Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
+[_Aici este **Formularul pentru Voluntari**_.](https://docs.google.com/forms/d/e/1FAIpQLScRpr35O08aNXlfxWToPcL4TPJQN5eP-Frx5F8W7b7XEprI1A/viewform?usp=sharing&ouid=108044500861450357115)
 
 # Ghidul Voluntarului
 
