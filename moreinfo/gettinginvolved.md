@@ -49,7 +49,7 @@ We put together this little overview to let you know what to expect on the day o
 <h3>Work Time</h3>
   </div>
   
-Your work will be structured so that you will work for half of the event ( **5 hours** ). The rest of the time, you're free to enjoy yourself at the event! **But please be present at the location for the entire duration of the event.**
+Your work will be structured so that you will work for half of the event ( **5 hours** ). The rest of the time, you're free to enjoy yourself at the event! **But please be present at the location for the entire duration of the event.** In the case of absolute necessity, you may be asked to step in outside of your time slot.
 
 There will be two teams of volunteers for each half of the day, **10:00 - 15:00** and **15:00 - 20:00**.
 
@@ -215,7 +215,7 @@ Am întocmit această mică prezentare generală pentru a vă informa la ce să 
 <h3>Timpul de Lucru</h3>
   </div>
   
-Munca voastră va fi structurată astfel încât să lucrați jumătate din eveniment ( **5 ore** ). În restul timpului, sunteți liberi să vă distrați! **Vă rugăm însă să fiți prezenți la locație pe întreaga durată a evenimentului.**
+Munca voastră va fi structurată astfel încât să lucrați jumătate din eveniment ( **5 ore** ). În restul timpului, sunteți liberi să vă distrați! **Vă rugăm însă să fiți prezenți la locație pe întreaga durată a evenimentului.** În caz de absolută necesitate, este posibil să vi se solicite să interveniți în afara intervalului orar ales.
 
 Vor fi două echipe de voluntari pentru fiecare jumătate a zilei, **10:00 - 15:00** și **15:00 - 20:00**.
 
