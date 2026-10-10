@@ -61,7 +61,7 @@ The morning shift will help us arrange what is left before opening. The evening 
 <h3>Splitting of Responsibilities</h3>
   </div>
   
-We will have **7** areas that we need covered during the event: _Entrance, Cloakroom, Cash Registers, Artist Alley, Stage, Ball Pit and the Merch Stand._
+We will have **8** areas that we need covered during the event: _Entrance, Prop Check, Cloakroom, Cash Registers, Artist Alley, Stage, Ball Pit and the Merch Stand._
 
 We would love for you to be paired with an area that you're comfortable and have experience with. That being said, there's a degree of rigidity to the assignment of tasks to the degree that all positions will need to be filled and some areas might be more coveted while others might see less interest. We will do our best to give out responsibilities in such a way that everyone is feeling up to their task and fully capable of accomplishing their role with confidence.
 
@@ -227,7 +227,7 @@ Tura de dimineață ne va ajuta să aranjăm ce mai e de aranjat pănă la desch
 <h3>Împărțirea Responsabilităților</h3>
   </div>
   
-Vom avea **7** zone care trebuie acoperite în timpul evenimentului: _Intrare, Verificare Prop-uri, Garderobă, Case de Marcat, Aleea Artiștilor, Scenă, Ball Pit și Standul cu Merch._
+Vom avea **8** zone care trebuie acoperite în timpul evenimentului: _Intrare, Verificare Prop-uri, Garderobă, Case de Marcat, Aleea Artiștilor, Scenă, Ball Pit și Standul cu Merch._
 
 Ne-ar plăcea să asociem pe fiecare cu un domeniu în care se simte confortabil și în care are experiență. Acestea fiind spuse, există un grad de rigiditate în atribuirea sarcinilor, deoarece toate pozițiile vor trebui ocupate, iar unele domenii ar putea fi mai dorite decât altele. Vom face tot posibilul să atribuim responsabilități în așa fel încât toată lumea să se simtă la înălțimea sarcinii sale și pe deplin capabilă să își îndeplinească rolul cu încredere.
 
