@@ -20,6 +20,8 @@ subtitle: Reguli
 
 - Access to the event will be granted via wristband. The wristbands will be provided at the entrance after presenting a valid ticket.
 
+- _You are allowed to enter with water and food from home. If your water or food is not sealed, it will be inspected at the entrance._
+
 - Possession of illicit substances, alcohol, sharp objects or weapons inside the venue is strictly forbidden.
 
 - Children under the age of 13 should be accompanied by a legal guardian for the entire duration of their attendance at the event.
@@ -94,6 +96,8 @@ _Thank you!_
 </div>
 
 - Intrarea în incinta evenimentului se va face doar pe bază de brățară. Brățările vor fi furnizate la intrare după prezentarea biletului.
+
+- _Aveți voie să intrați cu apă și mâncare de acasă. Dacă apa sau mâncarea nu sunt sigilate, vor fi verificate la intrare._
 
 - Intrarea în incintă cu substanțe ilegale, alcohol, obiecte ascuțite sau arme este strict interzisă.
 
