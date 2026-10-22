@@ -14,28 +14,40 @@ subtitle: Reguli
 
 - Possession of illicit substances, alcohol, sharp objects or weapons inside the venue is strictly forbidden.
 
-- Children under the age of 13 should be accompanied by a legal guardian for the entire duration of their attendence at the event.
+- Children under the age of 13 should be accompanied by a legal guardian for the entire duration of their attendance at the event.
 
 - Bringing pets inside the venue is strictly forbidden.
 
-- Smoking cigarettes is only allowed in the designated areas but please be mindful of people with asthma, long Covid or other respiratory disabilities.
+- Smoking cigarettes is only allowed in the designated areas but please be mindful of people with asthma, long COVID or other respiratory disabilities.
 
-- We forbid behaviour that may be disruptive to other people and/or the performers on stage, such as:
-  - putting on music at high volume via phone, bluetooth speakers etc;
+- We forbid behavior that may be disruptive to other people and/or the performers on stage, such as:
+  - putting on music at high volume via phone, Bluetooth speakers etc;
   - screaming and speaking excessively loud;
-  - intentionally intrerrupting the performers on stage.
+  - intentionally interrupting the performers on stage.
 
 ‎
-- We have ZERO tolerance for any kind of harrassment towards event hall staff, volunteers, atendees, the organization team or anybody else.
+- We have ZERO tolerance for any kind of harassment towards event hall staff, volunteers, attendees, the organization team or anybody else.
 
 
-Harrassment can mean, but is not limited to:
+Harassment can mean, but is not limited to:
   - insults towards a person or group of people on the basis of: physical appearance, race, ethnicity, sexual orientation, gender identity or religious beliefs.
   - non-consensual touching, grabbing, sexual comments, whistling, catcalling and any kind of advances made without explicit consent of both parties;
   - stalking, blocking someone's exit or photographing somebody without their permission;
   - any kind of violence or instigation to violence through physical attacks, object throwing etc.
 
 **JUST BECAUSE somebody is in Cosplay, it does NOT mean that they're giving you permission to touch them, take pictures of them or speak to them in a provocative manner.**
+
+## Cosplay-Specific Rules
+
+- Costumes cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
+- Costumes that can be confused with real professional uniforms are not allowed.
+    - For example: realistic military or police uniforms; realistic gear such as helmets, vests or masks; costumes resembling medical staff, sanitation staff or any other professional staff that could cause confusion ARE NOT ALLOWED.
+    - Costumes that ARE ALLOWED: obviously fantasy/fictional versions of said outfits (Master Chief - Halo, Samus - Metroid, Valeriy - Genshin Impact, Kuvira - Legend of Korra, Dr. House characters as their medical uniform is different from standard Romanian medical attire)
+- Props must be made out of safe, light materials such as foam, cardboard, plastic, etc.
+- No real weapons are allowed. This includes but is not limited to: blades, needles, guns (real or BB), heavy wood or metal bats or sticks (unless they’re a mobility aid).
+- Props will be subject to inspection prior to entry into the event. We reserve the final say on if something is allowed or not. If you are not sure if your prop breaks any rules, you can message us for clarification.
+- Messy or dangerous props including confetti, glitter, flower petals, flashing lights, fire, smoke, and liquids are not allowed.
+- Costumes must fit through a standard doorway and cannot impede traffic or block walkways. If your costume is bulky, obscures your vision, or has big extensions (e.g. tails or wings), you should have a designated “handler” to help you navigate the event.
 
 
 Failure to respect the above rules may result in voiding of the ticket and wristband and in not being allowed to enter the event venue anymore. _We reserve the right to revoke access as we see fit._
@@ -63,7 +75,7 @@ _Thank you!_
 
 - Intrarea în incintă cu animale de companie este interzisă.
 
-- Fumatul de țigări este permis doar în zonele special amenajate dar vă rugăm să țineți cont de persoanele cu astm, complicații Covid sau alte probleme respiratorii.
+- Fumatul de țigări este permis doar în zonele special amenajate dar vă rugăm să țineți cont de persoanele cu astm, complicații COVID sau alte probleme respiratorii.
 
 - Interzicem comportamentul care ar deranja oamenii din jur sau ar distrage atenția de la activitățile de pe scenă, cum ar fi:
   - ascultatul muzicii la volum foarte mare prin telefon, boxă etc;
