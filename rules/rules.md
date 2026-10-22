@@ -56,8 +56,8 @@ Harassment can mean, but is not limited to:
 - Costumes cannot be obscene, offensive, nor endorse any form of hate or hate group. Nudity is not allowed.
 
 - Costumes that can be confused with real professional uniforms are not allowed.
-    - For example: realistic military or police uniforms; realistic gear such as helmets, vests or masks; costumes in which you can be confused for medical staff, sanitation staff or any other professional staff ARE NOT ALLOWED.
-    - Costumes that ARE ALLOWED: obviously fantasy/fictional versions of said outfits (Master Chief - Halo, Samus - Metroid, Valeriy - Genshin Impact, Kuvira - Legend of Korra, Dr. House characters as their medical uniform is different from standard Romanian medical attire)
+    - For example: realistic military or police uniforms; realistic gear such as helmets, vests or masks; costumes in which you can be confused for medical staff, sanitation staff or any other professional staff **ARE NOT ALLOWED**.
+    - Costumes that **ARE ALLOWED**: obviously fantasy/fictional versions of said outfits (Master Chief - Halo, Samus - Metroid, Valeriy - Genshin Impact, Kuvira - Legend of Korra, Dr. House characters as their medical uniform is different from standard Romanian medical attire)
 
 - Props must be made out of safe, light materials such as foam, cardboard, plastic, etc.
 
