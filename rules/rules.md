@@ -97,7 +97,7 @@ _Thank you!_
 
 - Intrarea în incinta evenimentului se va face doar pe bază de brățară. Brățările vor fi furnizate la intrare după prezentarea biletului.
 
-- _Aveți voie să intrați cu apă și mâncare de acasă. Acestea vor fi verificate la intrare. Dacă apa și/sau mâncarea nu sunt sigilate/într-un ambalaj sigilat, vor fi inspectate de către personalul de la intrare._
+- _Aveți voie să intrați cu apă și mâncare de acasă. Acestea vor fi verificate la intrare. Dacă apa și/sau mâncarea nu sunt sigilate/într-un ambalaj sigilat, acestea vor fi inspectate de către personalul de la intrare._
 
 - Intrarea în incintă cu substanțe ilegale, alcohol, obiecte ascuțite sau arme este strict interzisă.
 
