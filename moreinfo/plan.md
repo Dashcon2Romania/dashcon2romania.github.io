@@ -62,7 +62,7 @@ Bulevardul Lacul Tei 1 bis, 020371 București
 ### **ROUTES to the Convention Center**
 #### **TRASEE către Locația Convenției**
 
-
+---
 ### 🔴 From Otopeni Airport (Henri Coandă International Airport)
 #### 🔴 De la Aeroport Otopeni (Aeroportul Internațional Henri Coandă)
 
@@ -76,7 +76,7 @@ Recomand să luați **autobuzul numărul 100** până la Stația Aeroport Bănea
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d91048.1891352704!2d26.006712750165335!3d44.509911378335964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b21c81b6588f77%3A0x114e5dad9d6d877e!2sBucharest%20Henri%20Coand%C4%83%20Int'l%20Airport%2C%20Calea%20Bucure%C8%99tilor%20224E%2C%20075150%20Otopeni!3m2!1d44.5668635!2d26.0949265!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1792854130691!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-
+---
 ### 🟠 From Băneasa Airport (Aurel Vlaicu International Airport)
 #### 🟠 De la Aeroport Băneasa (Aeroportul Internațional Aurel Vlaicu)
 
@@ -90,7 +90,7 @@ Recomand **tramvaiul numărul 5** până la Stația Rossini **(9 stații)**.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22775.88431931458!2d26.070457269109337!3d44.47446914877601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b202f8ee9bc4a1%3A0xfa0cdac8cce7ef4!2sAeroport%20Baneasa%2C%20Bucure%C8%99ti!3m2!1d44.496006!2d26.078865!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787780908910!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-
+---
 ### 🟡 From the North Railway Train Station
 #### 🟡 De la Gara de Nord
 
