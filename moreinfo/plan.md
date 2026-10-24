@@ -67,12 +67,12 @@ Bulevardul Lacul Tei 1 bis, 020371 București
 #### 🔴 De la Aeroport Otopeni (Aeroportul Internațional Henri Coandă)
 
 #### EN:
-I recommend taking the **number 100 BUS** to Aeroport Baneasa Station (2 stops) and then switching to the **number 5 TRAM** to Rossini Station (9 stops).
-- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57. It's an all-lines overland transport ticket that lasts for 90 minutes so you should only have to pay once.
+I recommend taking the **number 100 BUS** to Aeroport Baneasa Station **(2 stops)** and then switching to the **number 5 TRAM** to Rossini Station **(9 stops)**.
+- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around **€0.57**. It's an all-lines overland transport ticket that lasts for **90 minutes** so you should only have to pay once.
 
 #### RO:
-Recomand să luați **autobuzul numărul 100** până la Stația Aeroport Băneasa (2 stații), apoi să schimbați cu **tramvaiul numărul 5** până la Stația Rossini (9 stații).
-- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON. Este un bilet de transport terestru valabil 90 de minute, valabil pe toate rutele, deci ar trebui să ajungă să plătiți o singură dată.
+Recomand să luați **autobuzul numărul 100** până la Stația Aeroport Băneasa **(2 stații)**, apoi să schimbați cu **tramvaiul numărul 5** până la Stația Rossini **(9 stații)**.
+- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa **3 RON**. Este un bilet de transport terestru valabil **90 de minute**, valabil pe toate rutele, deci ar trebui să ajungă să plătiți o singură dată.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d91048.1891352704!2d26.006712750165335!3d44.509911378335964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b21c81b6588f77%3A0x114e5dad9d6d877e!2sBucharest%20Henri%20Coand%C4%83%20Int'l%20Airport%2C%20Calea%20Bucure%C8%99tilor%20224E%2C%20075150%20Otopeni!3m2!1d44.5668635!2d26.0949265!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1792854130691!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -81,12 +81,12 @@ Recomand să luați **autobuzul numărul 100** până la Stația Aeroport Bănea
 #### 🟠 De la Aeroport Băneasa (Aeroportul Internațional Aurel Vlaicu)
 
 #### EN:
-I recommend taking the **number 5 TRAM** to Rossini Station (9 stops).
-- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+I recommend taking the **number 5 TRAM** to Rossini Station **(9 stops)**.
+- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around **€0.57**.
 
 #### RO:
-Recomand **tramvaiul numărul 5** până la Stația Rossini (9 stații).
-- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
+Recomand **tramvaiul numărul 5** până la Stația Rossini **(9 stații)**.
+- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa **3 RON**.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d22775.88431931458!2d26.070457269109337!3d44.47446914877601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b202f8ee9bc4a1%3A0xfa0cdac8cce7ef4!2sAeroport%20Baneasa%2C%20Bucure%C8%99ti!3m2!1d44.496006!2d26.078865!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787780908910!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
@@ -100,21 +100,21 @@ Am două recomandări:
 
 ## 1
 #### EN:
-**Subway route M1 - Pantelimon** (faster, more walking) - from Gara de Nord Station to Ștefan cel Mare Station (2 stops)
-- Tickets can be bought inside the subway station, either at manned ticket kiosk or at the ticket vending machine. The price is around €0,95.
+**Subway route M1 - Pantelimon** (faster, more walking) - from Gara de Nord Station to Ștefan cel Mare Station **(2 stops)**
+- Tickets can be bought inside the subway station, either at manned ticket kiosk or at the ticket vending machine. The price is around **€0,95**.
 
 #### RO:
-**Metroul M1 - Pantelimon** (mai rapid, mai mult mers) - de la Stația Gara de Nord la Stația Ștefan cel Mare (2 stații)
--  Cartela de călătorie poate fi cumpărată în stația de metrou, fie la chioșcul de bilete cu personal, fie la automatul de bilete. Prețul este de 5 RON.
+**Metroul M1 - Pantelimon** (mai rapid, mai mult mers) - de la Stația Gara de Nord la Stația Ștefan cel Mare **(2 stații)**
+-  Cartela de călătorie poate fi cumpărată în stația de metrou, fie la chioșcul de bilete cu personal, fie la automatul de bilete. Prețul este de **5 RON**.
 
 ## 2
 #### EN:
-**Bus number 182** (slower, less walking) - from Gara de Nord Station to Bd. Lacul Tei Station (10 stops)
-- Payment can be done through the [24pay app](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around €0.57.
+**Bus number 182** (slower, less walking) - from Gara de Nord Station to Bd. Lacul Tei Station **(10 stops)**
+- Payment can be done through the [**24pay app**](https://www.24pay.ro/). You will have to select STB - All Metropolitan Lines and it would cost around **€0.57**.
 
 #### RO:
-**Autobuzul 182** (mai încet, mai puțin mers) - de la Stația Gara de Nord la Stația Bd. Lacul Tei (10 stații)
-- Plata se poate realiza prin [aplicația 24pay](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa 3 RON.
+**Autobuzul 182** (mai încet, mai puțin mers) - de la Stația Gara de Nord la Stația Bd. Lacul Tei **(10 stații)**
+- Plata se poate realiza prin [**aplicația 24pay**](https://www.24pay.ro/). Va trebui să selectezi STB - All Metropolitan Lines și va costa **3 RON**.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11391.418589932427!2d26.07693572593013!3d44.45665163720309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b201fca9df7749%3A0x7f1c3852fc0ea577!2sNorth%20Railway%20Station%20Neighborhood%2C%20Bucharest!3m2!1d44.446397499999996!2d26.075547399999998!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787785659513!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
