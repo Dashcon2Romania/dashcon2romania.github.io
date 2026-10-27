@@ -21,15 +21,19 @@ subtitle: Reguli Drag Show
 
 - There will be 15 spots. Spots will be filled on a first come, first _serve_ basis.
 
-- You must own a DashCon 2: Romania ticket to participate.
+- To participate, you must either:
+   - Own a DashCon 2: Romania ticket
+   - Participate under an Artist Pass > This will give you access to the event 1 hour before the Drag Show + the rest of the day
+
+- You don't have to be an established drag performer beforehand to sign up for this! **We welcome NEWBIES and COSPLAYERS too!**
 
 - Performances cannot exceed 3 minutes (180 seconds).
 
-- Participation is open for ages 18 and up.
+- Participation is open for ages **18 and up**.
 
 - Drag queens, kings and things are welcome!
 
-- Performances must be catered to a PG-13 audience.
+- Performances must be catered to a **PG-13** audience.
 
 ---
 <div id="req">
@@ -51,7 +55,7 @@ subtitle: Reguli Drag Show
 
 - In case of technical issues with your video/audio files, you will be contacted by email in order to resolve the issue. If you do not respond by the date specified in the email, we won’t be able to play your video/audio.
 
-- Participants must arrive at least 30 minutes before the show.
+- Participants must arrive **at least 30 minutes** before the show.
 
 - Setup time for props: max. 30 seconds.
 
@@ -108,15 +112,19 @@ _**Limitations of Liability:** DashCon 2: Romania is not responsible for any inj
 
 - Vor fi 15 locuri. Locurile în concurs se vor ocupa în baza “primul venit, primul _servit_”.
 
-- Pentru participare, trebuie să aveți un bilet la DashCon 2: România.
+- Pentru participare, trebuie fie: 
+   - Să aveți un bilet la DashCon 2: România
+   - Să participați prin Artist Pass > Acesta oferă acces la eveniment cu o oră înainte de Drag Show + pentru restul zilei
+
+- Nu trebuie să fiți un artist de drag cu experiență pentru înscriere. **ÎNCEPĂTORII și COSPLAYERII sunt bineveniți!**
 
 - Numerele nu pot depăși 3 minute (180 de secunde).
 
-- Concursul este deschis persoanelor cu vârsta minimă de 18 ani sau peste.
+- Concursul este deschis persoanelor cu vârsta minimă de **18 ani** sau peste.
 
 - Drag queens, kings, things, toată lumea e binevenită!
 
-- Momentele trebuie să fie potrivite pentru un public PG-13.
+- Momentele trebuie să fie potrivite pentru un public **PG-13**.
 
 ---
 <div id="cer">
@@ -138,7 +146,7 @@ _**Limitations of Liability:** DashCon 2: Romania is not responsible for any inj
 
 - În cazul în care apar probleme tehnice cu fișierele video/audio, veți fi contactat prin e-mail pentru a rezolva problema. Dacă nu răspundeți până la data specificată în e-mail, nu vom putea reda videoclipul/audio-ul.
 
-- Participanții trebuie să sosească cu 30 minute înainte de ora spectacolului.
+- Participanții trebuie să sosească cu **30 minute înainte** de ora spectacolului.
 
 - Momentele pe scenă nu pot depăși 3 minute (180 de secunde).
 
