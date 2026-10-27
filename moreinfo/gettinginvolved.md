@@ -9,6 +9,8 @@ subtitle: Cum v-ați putea implica
 Would you like to help out? **Join us as a volunteer!** 
 [_Here is the **Application Form.**_](https://docs.google.com/forms/d/e/1FAIpQLScRpr35O08aNXlfxWToPcL4TPJQN5eP-Frx5F8W7b7XEprI1A/viewform?usp=sharing&ouid=108044500861450357115).
 
+Volunteer applications will close **November 1st, 23:59 (11:59 PM)**.
+
 # Volunteer’s Guide
 
 First of all, **THANK YOU** SO MUCH for deciding to join us as a volunteer! Your help means a lot to us and we hope this will be a fun and fulfilling experience for you too!
@@ -175,6 +177,8 @@ To facilitate communication between the Organizers and the Volunteers, we have t
 
 Ai vrea să ajuți? **Ni te poți alătura ca voluntar!**
 [_Aici este **Formularul pentru Voluntari**_.](https://docs.google.com/forms/d/e/1FAIpQLScRpr35O08aNXlfxWToPcL4TPJQN5eP-Frx5F8W7b7XEprI1A/viewform?usp=sharing&ouid=108044500861450357115)
+
+Înscrierile pentru voluntariat se vor închide pe **1 noiembrie, 23:59 (11:59 PM)**.
 
 # Ghidul Voluntarului
 
