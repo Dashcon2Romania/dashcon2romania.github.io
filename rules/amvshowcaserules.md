@@ -36,8 +36,6 @@ subtitle: Reguli AMV Showcase
 <h3>Requirements for sign-up</h3>
 </div>
 
-- You must own a DashCon 2: Romania ticket.
-
 - Applicants will need to submit a shareable link through which we can watch the video.
   - For example, videos may be sent through Dropbox, OneDrive, or YouTube links, either public or unlisted.
 
@@ -106,8 +104,6 @@ subtitle: Reguli AMV Showcase
 <div id="cer">
 <h3>Cerințe pentru înscriere</h3>
 </div>
-
-- Trebuie să aveți bilet la DashCon 2: România.
 
 - Participanții trebuie să trimită un link prin care să putem viziona videoclipul.
  - De exemplu, videoclipurile pot fi trimise prin linkuri de Dropbox, OneDrive sau YouTube, fie publice, fie nelistate.
