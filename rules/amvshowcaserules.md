@@ -19,7 +19,7 @@ subtitle: Reguli AMV Showcase
 <h3>General Information</h3>
 </div>
 
-UPDATE: You can now submit AMVs and animations without an entry ticket! This option does not give you entry access but it allows you to share your work and we would love to showcase it!
+_**UPDATE:** You can now submit AMVs and animations without an entry ticket! This option does not give you entry access but it allows you to share your work and we would love to showcase it!_
 
 - Spots will be filled on a first come, first served basis.
 
@@ -90,7 +90,7 @@ UPDATE: You can now submit AMVs and animations without an entry ticket! This opt
 <h3>Informații generale</h3>
 </div>
 
-UPDATE: Acum puteți trimite AMV-uri și animații fără bilet de intrare! Această opțiune nu vă oferă acces de intrare la eveniment, dar vă permite să vă împărtășiți munca și nouă ne-ar face plăcere să o prezentăm!
+_**UPDATE:** Acum puteți trimite AMV-uri și animații fără bilet de intrare! Această opțiune nu vă oferă acces de intrare la eveniment, dar vă permite să vă împărtășiți munca și nouă ne-ar face plăcere să o prezentăm!_
 
 - Locurile se vor ocupa în baza “primul venit, primul servit”.
 
