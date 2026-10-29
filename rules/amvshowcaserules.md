@@ -19,6 +19,8 @@ subtitle: Reguli AMV Showcase
 <h3>General Information</h3>
 </div>
 
+UPDATE: You can now submit AMVs and animations without an entry ticket! This option does not give you entry access but it allows you to share your work and we would love to showcase it!
+
 - Spots will be filled on a first come, first served basis.
 
 - The form will close either on the 14th of November or once we reach the time limit (1 hour).
@@ -87,6 +89,8 @@ subtitle: Reguli AMV Showcase
 <div id="geninforo">
 <h3>Informații generale</h3>
 </div>
+
+UPDATE: Acum puteți trimite AMV-uri și animații fără bilet de intrare! Această opțiune nu vă oferă acces de intrare la eveniment, dar vă permite să vă împărtășiți munca și nouă ne-ar face plăcere să o prezentăm!
 
 - Locurile se vor ocupa în baza “primul venit, primul servit”.
 
