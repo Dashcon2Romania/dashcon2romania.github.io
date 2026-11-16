@@ -9,6 +9,18 @@ subtitle: Plănuiește-ți călătoria
 ## So you've decided to join us in the ball pit! Here's some useful info:
 
 ---
+### Jump to / Sari la:
+
+- <a href="#geninfo">General Information / Informații Generale</a>
+- <a href="#publictrans">Public Transportation / Transport Public</a>
+- <a href="#accazare">Accomodation / Cazare</a>
+
+---
+<div id="geninfo">
+</div>
+ 
+## **GENERAL INFORMATION:**
+### **INFORMAȚII GENERALE:**
 
 ## **DATE:**
 - DashCon 2: Romania will take place on **Saturday, November 21st 2026**. The event will last for one day, from **10:00** to **20:00**!
@@ -17,8 +29,9 @@ subtitle: Plănuiește-ți călătoria
 - Our convention will be held at [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) in **Bucharest, Romania**. <a href="#jump_to">Public transport details below!</a>
 
 ## **ADMISSION:**
-- Standard tickets are live now! Get yours [here, through iabilet.ro](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
+- **All tickets are sold out!** Thank you so much to everyone who supported us! ꕤ*.ﾟ
 - You will receive your digital ticket through email. You can present this ticket for admission through your phone or by printing it out.
+- **IF YOU ARE UNDER 18, you must present a signed parental consent form to enter! Here is a template.**
 - After admission, you will receive a wristband which will act as your proof of admission. Please keep it on for the whole duration of your stay at our event.
 
  ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 .          　. 　 ˚　.
@@ -38,7 +51,7 @@ subtitle: Plănuiește-ți călătoria
 - Convenția se va ține la [**Terra Events Hall**](https://maps.app.goo.gl/LyqzEkoRvaABY4y76) în **București, România**. <a href="#jump_to">Detalii despre transportul public mai jos!</a>
 
 ## **INTRARE:**
-- Biletele Standard sunt live acum! Ia-ți propriul bilet [aici, prin iabilet.ro](https://www.iabilet.ro/bilete-dashcon-two-romania-126037/)! ꕤ*.ﾟ
+- **Toate biletele s-au vândut!** Mulțumim tuturor oamenilor care ne-au susținut! ꕤ*.ﾟ
 - Vei primi biletul digital prin e-mail. Poți prezenta biletul direct pe telefon sau îl poți printa.
 - După admitere, o să primești o brățară de acces ce va conta ca dovadă a admiterii. Brățara ar trebui să fie purtată pe toată durata participării la eveniment.
 
@@ -47,6 +60,8 @@ subtitle: Plănuiește-ți călătoria
 
 ---
 <div id="jump_to">
+</div>
+<div id="publictrans">
 </div>
  
 ## **PUBLIC TRANSPORTATION:**
@@ -119,6 +134,8 @@ Am două recomandări:
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d11391.418589932427!2d26.07693572593013!3d44.45665163720309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x40b201fca9df7749%3A0x7f1c3852fc0ea577!2sNorth%20Railway%20Station%20Neighborhood%2C%20Bucharest!3m2!1d44.446397499999996!2d26.075547399999998!4m5!1s0x40b1f8a50d8762e7%3A0xf4147c68340041ba!2sTERRA%20Events%2C%20Bulevardul%20Lacul%20Tei%201%20bis%2C%20020371%20Bucure%C8%99ti!3m2!1d44.4589923!2d26.107353!5e0!3m2!1sen!2sro!4v1787785659513!5m2!1sen!2sro" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
 ---
+<div id="accazare">
+</div>
 
 ## **ACCOMMODATION: / CAZARE:**
 
