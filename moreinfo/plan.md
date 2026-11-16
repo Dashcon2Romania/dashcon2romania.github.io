@@ -132,9 +132,9 @@ Kepler Residence is only [a few minutes away](https://maps.app.goo.gl/L7MUtKBPKm
 ### EN
 
 **PRICES:**
-- Single room - €109/night
-- Double room - €123/night
-- Triple/Family room (3 adults or 2 adults + 2 children)  - €139/night
+- Single room - €85/night
+- Double room - €95/night
+- Triple/Family room (3 adults or 2 adults + 2 children)  - €110/night
 
 Payment can be done through cash, card or bank transfer.
 <br>
@@ -151,9 +151,9 @@ _Prices include: TVA -11% + tourist tax (10 RON/person/day)_
 ### RO
 
 **PREȚURI:**
-- Cameră single - €109/noapte
-- Cameră double - €123/noapte
-- Cameră triple/family (3 adulți sau 2 adulți + 2 copii)  - €139/noapte
+- Cameră single - €85/noapte
+- Cameră double - €95/noapte
+- Cameră triple/family (3 adulți sau 2 adulți + 2 copii)  - €110/noapte
 
 Plata se poate face cash, prin card sau prin transfer bancar.
 <br>
