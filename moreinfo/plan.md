@@ -31,7 +31,7 @@ subtitle: Plănuiește-ți călătoria
 ## **ADMISSION:**
 - **All tickets are sold out!** Thank you so much to everyone who supported us! ꕤ*.ﾟ
 - You will receive your digital ticket through email. You can present this ticket for admission through your phone or by printing it out.
-- **IF YOU ARE UNDER 18, you must present a signed parental consent form to enter! Here is a template.**
+- **IF YOU ARE UNDER 18, you must present a signed parental consent form to enter! [Here is a template.](https://drive.google.com/drive/folders/1vBmTsHirh3mDimqPw2_gltwzrTBd7nbF?usp=sharing)**
 - After admission, you will receive a wristband which will act as your proof of admission. Please keep it on for the whole duration of your stay at our event.
 
  ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 .          　. 　 ˚　.
@@ -53,6 +53,7 @@ subtitle: Plănuiește-ți călătoria
 ## **INTRARE:**
 - **Toate biletele s-au vândut!** Mulțumim tuturor oamenilor care ne-au susținut! ꕤ*.ﾟ
 - Vei primi biletul digital prin e-mail. Poți prezenta biletul direct pe telefon sau îl poți printa.
+- **DACĂ AVEȚI SUB 18 ANI, trebuie să prezentați un formular de consimțământ parental semnat pentru a participa! [Iată un model](https://drive.google.com/drive/folders/1vBmTsHirh3mDimqPw2_gltwzrTBd7nbF?usp=sharing).**
 - După admitere, o să primești o brățară de acces ce va conta ca dovadă a admiterii. Brățara ar trebui să fie purtată pe toată durata participării la eveniment.
 
  ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 .          　. 　 ˚　.
