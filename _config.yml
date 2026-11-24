@@ -35,6 +35,7 @@ navbar-links:
   Guests:
     - Our Artists: "/guests/artists"
     - Our Judges: "/guests/judges"
+    - Our Cosplay Contestants: "/guests/cosplaycontestants"
   Socials:
     - Tumblr: "https://dashcon-2-romania.tumblr.com/"
     - TikTok: "https://www.tiktok.com/@dashcon2romania"
